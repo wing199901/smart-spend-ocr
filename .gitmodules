@@ -1,0 +1,6 @@
+[submodule "EasyOCR"]
+	path = EasyOCR
+	url = https://github.com/EAAI-smart-spend/EasyOCR
+[submodule "deep-text-recognition-benchmark"]
+	path = deep-text-recognition-benchmark
+	url = https://github.com/EAAI-smart-spend/deep-text-recognition-benchmark

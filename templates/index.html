@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>香港收據 OCR 驗證工具</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: #f5f5f5;
+        padding: 20px;
+      }
+      .header {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      .stats {
+        display: flex;
+        gap: 20px;
+        margin-top: 15px;
+      }
+      .stat-item {
+        padding: 10px 20px;
+        background: #f0f0f0;
+        border-radius: 5px;
+      }
+      .stat-item strong {
+        color: #2196f3;
+      }
+
+      .controls {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+      }
+      .btn {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.3s;
+      }
+      .btn-primary {
+        background: #2196f3;
+        color: white;
+      }
+      .btn-primary:hover {
+        background: #1976d2;
+      }
+      .btn-success {
+        background: #4caf50;
+        color: white;
+      }
+      .btn-success:hover {
+        background: #388e3c;
+      }
+      .btn-danger {
+        background: #f44336;
+        color: white;
+      }
+      .btn-danger:hover {
+        background: #d32f2f;
+      }
+      .btn-warning {
+        background: #ff9800;
+        color: white;
+      }
+      .btn-warning:hover {
+        background: #f57c00;
+      }
+      .btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+
+      .batch-action-dropdown {
+        padding: 10px 20px;
+        border: 2px solid #2196f3;
+        border-radius: 5px;
+        font-size: 14px;
+        cursor: pointer;
+        background: white;
+        color: #2196f3;
+        font-weight: 500;
+        transition: all 0.3s;
+      }
+
+      .batch-action-dropdown:hover {
+        background: #2196f3;
+        color: white;
+      }
+
+      .batch-action-dropdown:focus {
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.2);
+      }
+
+      .filter-group {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        margin-left: auto;
+      }
+
+      .filter-dropdown {
+        padding: 8px 12px;
+        border: 2px solid #ddd;
+        border-radius: 5px;
+        font-size: 14px;
+        cursor: pointer;
+        background: white;
+        transition: border-color 0.3s;
+      }
+
+      .filter-dropdown:hover {
+        border-color: #2196f3;
+      }
+
+      .filter-dropdown:focus {
+        outline: none;
+        border-color: #2196f3;
+        box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+      }
+
+      .items-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+      }
+
+      .item-card {
+        background: white;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+      }
+      .item-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      }
+      .item-card.verified {
+        border-left: 4px solid #4caf50;
+      }
+      .item-card.low-confidence {
+        border-left: 4px solid #ff9800;
+      }
+
+      .item-image {
+        width: 100%;
+        height: 120px;
+        object-fit: contain;
+        background: #f5f5f5;
+        border-radius: 5px;
+        margin-bottom: 10px;
+      }
+
+      .item-text {
+        font-size: 18px;
+        font-weight: bold;
+        margin: 10px 0;
+        padding: 10px;
+        background: #f5f5f5;
+        border-radius: 5px;
+        min-height: 40px;
+      }
+
+      .item-confidence {
+        font-size: 12px;
+        color: #666;
+        margin-bottom: 10px;
+      }
+      .confidence-high {
+        color: #4caf50;
+      }
+      .confidence-medium {
+        color: #ff9800;
+      }
+      .confidence-low {
+        color: #f44336;
+      }
+
+      .item-input {
+        width: 100%;
+        padding: 8px;
+        border: 2px solid #ddd;
+        border-radius: 5px;
+        font-size: 16px;
+        margin-bottom: 10px;
+      }
+
+      .item-actions {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+
+      .item-actions .checkbox-label {
+        flex: 1;
+        min-width: 80px;
+      }
+
+      .item-actions .btn-delete,
+      .item-actions .btn-save {
+        flex: 0 0 auto;
+        padding: 6px 12px;
+        font-size: 12px;
+      }
+      .checkbox-label {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        cursor: pointer;
+      }
+
+      .progress-bar {
+        height: 30px;
+        background: #e0e0e0;
+        border-radius: 15px;
+        overflow: hidden;
+        margin: 15px 0;
+      }
+      .progress-fill {
+        height: 100%;
+        background: linear-gradient(90deg, #4caf50, #8bc34a);
+        transition: width 0.3s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <h1>🧾 香港收據 OCR 驗證工具</h1>
+      <div class="stats">
+        <div class="stat-item">總數: <strong>{{ stats.total }}</strong></div>
+        <div class="stat-item">
+          已驗證: <strong>{{ stats.verified }}</strong>
+        </div>
+        <div class="stat-item">
+          低信心度: <strong>{{ stats.low_confidence }}</strong>
+        </div>
+      </div>
+
+      <div class="progress-bar">
+        <div
+          class="progress-fill"
+          style="width: {{ (stats.verified / stats.total * 100) if stats.total > 0 else 0 }}%"
+        >
+          {{ "%.1f"|format(stats.verified / stats.total * 100 if stats.total > 0
+          else 0) }}%
+        </div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button
+        class="btn btn-info"
+        onclick="document.getElementById('uploadInput').click()"
+      >
+        📤 上傳收據
+      </button>
+      <input
+        type="file"
+        id="uploadInput"
+        accept="image/jpeg,image/jpg,image/png"
+        style="display: none"
+        onchange="uploadImage(this)"
+      />
+
+      <button class="btn btn-success" onclick="selectAll()">☑️ 全選</button>
+
+      <select
+        id="batchActionSelect"
+        class="batch-action-dropdown"
+        onchange="executeBatchAction()"
+      >
+        <option value="">批量操作...</option>
+        <option value="verify">✓ 驗證選中項</option>
+        <option value="delete">🗑️ 刪除選中項</option>
+        <option value="save-all">💾 保存全部</option>
+      </select>
+
+      <button
+        class="btn btn-success"
+        onclick="generateDataset()"
+        id="generateBtn"
+      >
+        🎯 生成訓練數據集
+      </button>
+      <button
+        class="btn btn-primary"
+        onclick="convertToLmdb()"
+        id="lmdbBtn"
+        {%
+        if
+        not
+        stats.dataset_exists
+        %}disabled
+        title="請先生成訓練數據集"
+        {%
+        endif
+        %}
+      >
+        📦 轉換 LMDB 格式
+      </button>
+      <button
+        class="btn btn-warning"
+        onclick="window.reprocessImages()"
+        id="reprocessBtn"
+      >
+        🔄 重新處理圖片
+      </button>
+      <button class="btn btn-danger" onclick="location.reload()">
+        🔄 重新載入
+      </button>
+
+      <div class="filter-group">
+        <label for="filterSelect">🔍 篩選：</label>
+        <select
+          id="filterSelect"
+          class="filter-dropdown"
+          onchange="saveFilterState(); filterItems();"
+        >
+          <option value="all" selected>全部顯示</option>
+          <option value="unverified">僅顯示未驗證</option>
+          <option value="verified">僅顯示已驗證</option>
+          <option value="low-confidence">僅顯示低信心度</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="items-container" id="itemsContainer">
+      {% for item in items %}
+      <div
+        class="item-card {% if item.verified %}verified{% endif %} {% if item.confidence < 0.8 %}low-confidence{% endif %}"
+        data-id="{{ item.id }}"
+        data-verified="{{ item.verified|lower }}"
+        data-confidence="{{ item.confidence }}"
+      >
+        <img
+          src="data:image/jpeg;base64,{{ item.cropped_image }}"
+          class="item-image"
+          alt="Cropped text"
+        />
+
+        <div class="item-text">{{ item.text }}</div>
+
+        <div class="item-confidence">
+          信心度:
+          <span
+            class="{% if item.confidence >= 0.9 %}confidence-high{% elif item.confidence >= 0.7 %}confidence-medium{% else %}confidence-low{% endif %}"
+          >
+            {{ "%.2f"|format(item.confidence) }}
+          </span>
+        </div>
+
+        <input
+          type="text"
+          class="item-input"
+          value="{{ item.corrected_text or item.text }}"
+          data-original="{{ item.text }}"
+          data-image-name="{{ item.image_name }}"
+          data-region-idx="{{ item.region_idx }}"
+          placeholder="修正文字..."
+          onkeypress="if(event.key === 'Enter') { event.preventDefault(); const btn = this.closest('.item-card').querySelector('.btn-save'); if(btn) btn.click(); focusNextInput(this); }"
+        />
+
+        <div class="item-actions">
+          <label class="checkbox-label">
+            <input
+              type="checkbox"
+              class="verify-checkbox"
+              {%
+              if
+              item.verified
+              %}checked{%
+              endif
+              %}
+            />
+            已驗證
+          </label>
+          <label class="checkbox-label">
+            <input type="checkbox" class="select-checkbox" />
+            選擇
+          </label>
+          <button
+            class="btn btn-primary btn-save"
+            onclick="saveItem(this, '{{ item.image_name }}', {{ item.region_idx }})"
+          >
+            💾 保存
+          </button>
+          <button
+            class="btn btn-danger btn-delete"
+            onclick="deleteItem(this, '{{ item.image_name }}', {{ item.region_idx }})"
+          >
+            🗑️ 刪除
+          </button>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>
