@@ -326,6 +326,21 @@ class QuickVerifier:
                 for idx in indices_sorted:
                     if 0 <= idx < len(ocr_results):
                         deleted_region = ocr_results.pop(idx)
+
+                        # 刪除對應的 crop 圖片
+                        crop_filename = deleted_region.get('crop_filename')
+                        if crop_filename:
+                            crop_path = self.crops_dir / crop_filename
+                            deleted_crop_path = self.deleted_dir / crop_filename
+
+                            if crop_path.exists():
+                                shutil.move(str(crop_path),
+                                            str(deleted_crop_path))
+                                logger.info(
+                                    f"移動 crop 到 deleted: {crop_filename}")
+                            else:
+                                logger.warning(f"Crop 檔案不存在: {crop_path}")
+
                         deleted_count += 1
                         logger.info(
                             f"刪除區域: {image_name}_{idx} - {deleted_region.get('text', '')}")
@@ -369,6 +384,17 @@ class QuickVerifier:
                 return
 
             anno = self.annotations[image_name]
+
+            # 移動所有 crop 圖片
+            for ocr_result in anno.get('ocr_results', []):
+                crop_filename = ocr_result.get('crop_filename')
+                if crop_filename:
+                    crop_path = self.crops_dir / crop_filename
+                    deleted_crop_path = self.deleted_dir / crop_filename
+
+                    if crop_path.exists():
+                        shutil.move(str(crop_path), str(deleted_crop_path))
+                        logger.info(f"移動 crop 到 deleted: {crop_filename}")
 
             # 移動處理後的圖片
             processed_path = Path(anno.get('processed_image_path', ''))
@@ -444,6 +470,9 @@ def index():
     """主頁面"""
     if verifier is None:
         abort(500, "Verifier not initialized")
+
+    # 每次訪問首頁時檢查新圖片
+    verifier.process_input_folder()
 
     items = verifier.get_verification_data()
 

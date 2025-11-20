@@ -1,21 +1,76 @@
-WhatsApp Image 2025-11-14 at 18.01.36_crop_016.jpg	忌廉雞肉焗飯
-WhatsApp Image 2025-11-14 at 18.01.36_crop_027.jpg	THANK YOU!
-WhatsApp Image 2025-11-14 at 18.01.36_crop_014.jpg	*(多飯)
-WhatsApp Image 2025-11-14 at 18.01.36_crop_005.jpg	5
-7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_001.jpg	九龍青衣細山路2號美景花園平臺72號舖
-7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_023.jpg	316.0
-7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_016.jpg	17:50 C05軟滑豆腐海鮮湯
-eadff241-985a-4eb0-ab95-7480053fc724_crop_034.jpg	紅石榴香橙梳打
-eadff241-985a-4eb0-ab95-7480053fc724_crop_065.jpg	Priscilla
-eadff241-985a-4eb0-ab95-7480053fc724_crop_062.jpg	開檯時間
-WhatsApp Image 2025-10-24 at 17.52.57_crop_031.jpg	3
-WhatsApp Image 2025-10-24 at 17.52.57_crop_002.jpg	收銀員:
-WhatsApp Image 2025-10-24 at 17.52.57_crop_033.jpg	2025-10-24
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_029.jpg	KPay
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_025.jpg	HKD 800.00
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_042.jpg	Visa
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_013.jpg	19003174
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_047.jpg	provides
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_032.jpg	responsibility
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_018.jpg	Expiry: XX/XX
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_028.jpg	according to card issuer agreement.
+test_samples_00012_crop_035.jpg	HKD
+test_samples_00012_crop_040.jpg	Payment Method
+IMG_6323_crop_014.jpg	滷肉飯
+IMG_6323_crop_045.jpg	P-01
+IMG_6323_crop_030.jpg	00
+IMG_6323_crop_035.jpg	付款方法
+IMG_6323_crop_046.jpg	檯號
+555_crop_019.jpg	55. 90
+555_crop_031.jpg	15.90
+555_crop_064.jpg	39.48
+555_crop_023.jpg	59.90
+555_crop_044.jpg	49.90
+555_crop_009.jpg	商品
+555_crop_039.jpg	39.90
+555_crop_048.jpg	79.90
+555_crop_022.jpg	55.90
+111_crop_012.jpg	落單時間: 2025-10-25 13:45:40
+111_crop_039.jpg	$106.00
+111_crop_014.jpg	砂砂湯四送米線套餐
+111_crop_037.jpg	以四捨五入計算至整數
+111_crop_034.jpg	$106.60
+111_crop_029.jpg	米線底
+IMG_6324_crop_005.jpg	淘大商場
+IMG_6324_crop_014.jpg	$0.00
+IMG_6324_crop_031.jpg	上一次於 2025-10-63 自動增值
+444_crop_041.jpg	exchange within 7days
+444_crop_003.jpg	Tel
+444_crop_056.jpg	Test]
+444_crop_027.jpg	$261.10
+444_crop_069.jpg	Let'
+test_samples_00006_crop_007.jpg	Metro Plaza (Bakery)/
+test_samples_00006_crop_017.jpg	$26.0
+test_samples_00006_crop_033.jpg	單號
+222_crop_039.jpg	淨金額
+222_crop_029.jpg	-5.40
+222_crop_022.jpg	-3.00
+222_crop_045.jpg	付款方式
+222_crop_021.jpg	減價
+222_crop_044.jpg	470.60
+222_crop_042.jpg	500.00
+222_crop_026.jpg	22.90
+222_crop_025.jpg	1.00/件.
+222_crop_034.jpg	膠袋
+test_samples_00003_crop_014.jpg	$20.0
+test_samples_00003_crop_051.jpg	Please pay at Cashier
+test_samples_00003_crop_044.jpg	2025-10-20 12:37:57
+test_samples_00003_crop_023.jpg	蘑姑忌廉湯
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_032.jpg	-$42.2
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_008.jpg	03/10/2025 17:36
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_027.jpg	03/10/2025 17:36
+IMG_6327_crop_024.jpg	(0000119183)
+IMG_6327_crop_026.jpg	31.60
+IMG_6327_crop_032.jpg	$348.0
+IMG_6327_crop_030.jpg	$348.0
+IMG_6327_crop_016.jpg	78.0
+IMG_6325_crop_021.jpg	脆香雞翼(2件)
+IMG_6325_crop_025.jpg	小計
+IMG_6325_crop_028.jpg	96.00
+IMG_6325_crop_022.jpg	10.00
+test_samples_00009_crop_002.jpg	Greenfield
+test_samples_00009_crop_016.jpg	N.[
+test_samples_00009_crop_009.jpg	Commercial
+test_samples_00009_crop_014.jpg	Tsang
+test_samples_00009_crop_020.jpg	N.T.
+test_samples_00009_crop_012.jpg	Greenfield
+test_samples_00009_crop_008.jpg	G/F,
+test_samples_00005_crop_015.jpg	68.00
+test_samples_00005_crop_004.jpg	000031359桌號:
+test_samples_00005_crop_021.jpg	194.00
+777_crop_032.jpg	八達通
+IMG_6328_crop_021.jpg	$12.0
+IMG_6328_crop_015.jpg	$20.0
+test_samples_00011_crop_028.jpg	LAM F T
+test_samples_00010_crop_027.jpg	總計:
+test_samples_00010_crop_037.jpg	多謝惠顧
+666_crop_014.jpg	12

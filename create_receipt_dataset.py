@@ -71,12 +71,12 @@ class ReceiptDatasetCreator:
 
         # 創建目錄結構
         self.annotations_file = self.processed_dir / "annotations.json"
-        self.processed_images_dir = self.processed_dir / "images"
+        self.original_images_dir = self.processed_dir / "original_images"
         self.train_dir = self.dataset_dir / "train"
         self.valid_dir = self.dataset_dir / "valid"
         self.test_dir = self.dataset_dir / "test"
 
-        for dir_path in [self.input_dir, self.processed_dir, self.processed_images_dir,
+        for dir_path in [self.input_dir, self.processed_dir, self.original_images_dir,
                          self.crops_dir, self.train_dir, self.valid_dir, self.test_dir]:
             dir_path.mkdir(parents=True, exist_ok=True)
 
@@ -381,8 +381,8 @@ class ReceiptDatasetCreator:
             print(
                 f"   🔍 過濾掉 {filtered_count} 個低信心度結果 (< {self.CONFIDENCE_THRESHOLD})")
 
-        # 保存原圖到 processed/images 目錄
-        processed_img_path = self.processed_images_dir / image_path.name
+        # 保存原圖到 processed/original_images 目錄
+        processed_img_path = self.original_images_dir / image_path.name
         shutil.copy(str(image_path), str(processed_img_path))
 
         return {
@@ -499,7 +499,7 @@ class ReceiptDatasetCreator:
             print(f"   ❌  未預期的錯誤: {type(e).__name__}: {e}")
             return None
 
-    def generate_training_dataset(self, train_ratio: float = 0.8, valid_ratio: float = 0.1,
+    def generate_training_dataset(self, train_ratio: float = 0.7, valid_ratio: float = 0.15,
                                   crop_text_regions: bool = True):
         """
         生成訓練數據集 - gt.txt 格式 (用於 deep-text-recognition-benchmark)
@@ -768,28 +768,7 @@ class ReceiptDatasetCreator:
         print(f"\n{'='*70}")
         print(f"✅ Training dataset generated in {self.dataset_dir}")
         print(f"📄 Format: gt.txt (tab-separated)")
-        print(f"{'='*70}")
-        print(f"\n📖 Next steps:")
-        print(f"\n1. Convert gt.txt to LMDB format:")
-        print(f"   python deep-text-recognition-benchmark/create_lmdb_dataset.py \\")
-        print(f"       --inputPath {self.dataset_dir}/train \\")
-        print(f"       --gtFile {self.dataset_dir}/train/gt.txt \\")
-        print(f"       --outputPath dataset_lmdb/train")
-        print(f"   ")
-        print(f"   python deep-text-recognition-benchmark/create_lmdb_dataset.py \\")
-        print(f"       --inputPath {self.dataset_dir}/valid \\")
-        print(f"       --gtFile {self.dataset_dir}/valid/gt.txt \\")
-        print(f"       --outputPath dataset_lmdb/valid")
-        print(f"\n2. Start training:")
-        print(f"   cd deep-text-recognition-benchmark")
-        print(f"   python train.py \\")
-        print(f"       --train_data ../dataset_lmdb/train \\")
-        print(f"       --valid_data ../dataset_lmdb/valid \\")
-        print(f"       --Transformation TPS \\")
-        print(f"       --FeatureExtraction ResNet \\")
-        print(f"       --SequenceModeling BiLSTM \\")
-        print(f"       --Prediction Attn")
-        print()
+        print(f"{'='*70}\n")
 
     def show_statistics(self):
         """顯示統計資訊"""

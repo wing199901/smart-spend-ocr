@@ -1,20 +1,90 @@
-WhatsApp Image 2025-11-14 at 18.01.36_crop_003.jpg	流水號:
-WhatsApp Image 2025-11-14 at 18.01.36_crop_011.jpg	2
-WhatsApp Image 2025-11-14 at 18.01.36_crop_024.jpg	2025-11-14 17:57:59
-WhatsApp Image 2025-11-14 at 18.01.36_crop_020.jpg	總計:
-WhatsApp Image 2025-10-24 at 17.52.57_crop_007.jpg	單號:
-WhatsApp Image 2025-10-24 at 17.52.57_crop_001.jpg	Dine In
-WhatsApp Image 2025-11-07 at 18.12.10_crop_022.jpg	drink +8
-WhatsApp Image 2025-11-07 at 18.12.10_crop_023.jpg	24.00
-WhatsApp Image 2025-11-07 at 18.12.10_crop_007.jpg	1
-WhatsApp Image 2025-11-07 at 18.12.10_crop_004.jpg	Open at: 2025-11-07 17:21:45
-eadff241-985a-4eb0-ab95-7480053fc724_crop_047.jpg	Lam
-eadff241-985a-4eb0-ab95-7480053fc724_crop_037.jpg	20.00
-eadff241-985a-4eb0-ab95-7480053fc724_crop_032.jpg	40.00
-eadff241-985a-4eb0-ab95-7480053fc724_crop_041.jpg	115
-eadff241-985a-4eb0-ab95-7480053fc724_crop_030.jpg	1
-eadff241-985a-4eb0-ab95-7480053fc724_crop_040.jpg	小計
-eadff241-985a-4eb0-ab95-7480053fc724_crop_011.jpg	白酒忌廉煮青口
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_033.jpg	the contents of the transaction
-6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_014.jpg	Ref:
-7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_024.jpg	(0000119183)
+IMG_6325_crop_000.jpg	525
+IMG_6325_crop_011.jpg	42.00
+IMG_6325_crop_031.jpg	八達通卡編號
+IMG_6325_crop_017.jpg	1 餐中薯條
+IMG_6325_crop_005.jpg	Tel
+IMG_6325_crop_034.jpg	58E682/2989
+IMG_6324_crop_024.jpg	193925401
+IMG_6324_crop_018.jpg	$33.00
+IMG_6324_crop_011.jpg	$33.00
+test_samples_00008_crop_034.jpg	POS編號
+test_samples_00008_crop_004.jpg	52093034
+test_samples_00008_crop_014.jpg	68
+test_samples_00008_crop_015.jpg	00
+test_samples_00008_crop_030.jpg	Winnie
+test_samples_00008_crop_021.jpg	68.00
+test_samples_00008_crop_035.jpg	A12372-POS-01
+test_samples_00008_crop_028.jpg	總計
+444_crop_030.jpg	Hua
+444_crop_001.jpg	PARKNSHOP
+444_crop_082.jpg	Scan
+444_crop_034.jpg	27/10/25
+444_crop_004.jpg	2428 7716
+444_crop_019.jpg	$74.00
+444_crop_013.jpg	034186 士多啤梨250克 (中
+test_samples_00007_crop_013.jpg	$14.0
+test_samples_00007_crop_008.jpg	北海道特選3.6牛乳 2
+test_samples_00007_crop_022.jpg	$0.0
+test_samples_00007_crop_009.jpg	0
+test_samples_00007_crop_010.jpg	$14.0
+test_samples_00007_crop_007.jpg	$20.0
+test_samples_00007_crop_005.jpg	$26.0
+test_samples_00012_crop_042.jpg	HKD 79.00
+test_samples_00012_crop_010.jpg	Hong Kong
+test_samples_00012_crop_041.jpg	Octopus
+test_samples_00012_crop_027.jpg	Short socks
+test_samples_00012_crop_012.jpg	2495 6271
+test_samples_00012_crop_003.jpg	WWW.UNIQLO.COM
+test_samples_00012_crop_016.jpg	29/10/2025
+test_samples_00012_crop_004.jpg	UNIQLO Maritime Square Store
+test_samples_00012_crop_033.jpg	3
+test_samples_00012_crop_007.jpg	No.33 Tsing King Road,
+555_crop_018.jpg	65.90
+555_crop_046.jpg	980217108
+555_crop_028.jpg	47.90
+555_crop_040.jpg	39.90
+555_crop_073.jpg	813.02
+555_crop_036.jpg	43.90
+test_samples_00011_crop_014.jpg	$18.00
+test_samples_00011_crop_004.jpg	20 Tsing Yi Road,
+test_samples_00011_crop_012.jpg	凍美式咖啡(16oz)
+777_crop_004.jpg	3163-6033
+777_crop_016.jpg	42.0
+777_crop_003.jpg	Tel:
+222_crop_031.jpg	1.00
+222_crop_006.jpg	收銀員
+222_crop_040.jpg	29.40
+222_crop_028.jpg	減價
+IMG_6327_crop_011.jpg	Time:
+test_samples_00005_crop_017.jpg	68.00
+test_samples_00005_crop_009.jpg	人數:
+test_samples_00005_crop_012.jpg	58.00
+test_samples_00005_crop_010.jpg	2
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_002.jpg	5559 4551
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_039.jpg	66
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_010.jpg	$60.0
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_034.jpg	5C002D25100317364807A4
+IMG_6323_crop_038.jpg	經理
+IMG_6323_crop_016.jpg	滷白菜
+IMG_6323_crop_017.jpg	49.00
+IMG_6323_crop_007.jpg	26/10/2025 19:03:24
+IMG_6323_crop_032.jpg	已付
+IMG_6323_crop_029.jpg	326
+test_samples_00009_crop_025.jpg	441
+test_samples_00009_crop_003.jpg	Gaden
+test_samples_00009_crop_013.jpg	Garden,
+test_samples_00003_crop_024.jpg	$14.0
+test_samples_00003_crop_002.jpg	Saizeriya
+test_samples_00003_crop_031.jpg	總金額
+111_crop_032.jpg	$0.00
+111_crop_010.jpg	000-0129
+111_crop_025.jpg	$53.00
+111_crop_042.jpg	餘額
+111_crop_057.jpg	App內查閱
+666_crop_030.jpg	85889582
+IMG_6328_crop_033.jpg	$196.0
+test_samples_00010_crop_010.jpg	閱單時閫: 14:12:50
+test_samples_00010_crop_021.jpg	$0.
+test_samples_00010_crop_002.jpg	顧客單據
+test_samples_00006_crop_012.jpg	15:41
+test_samples_00006_crop_029.jpg	多謝惠顧

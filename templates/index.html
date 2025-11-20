@@ -327,9 +327,6 @@
       >
         🔄 重新處理圖片
       </button>
-      <button class="btn btn-danger" onclick="location.reload()">
-        🔄 重新載入
-      </button>
 
       <div class="filter-group">
         <label for="filterSelect">🔍 篩選：</label>
@@ -342,6 +339,20 @@
           <option value="unverified">僅顯示未驗證</option>
           <option value="verified">僅顯示已驗證</option>
           <option value="low-confidence">僅顯示低信心度</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="sortSelect">📊 排序：</label>
+        <select
+          id="sortSelect"
+          class="filter-dropdown"
+          onchange="saveSortState(); sortItems();"
+        >
+          <option value="confidence-asc" selected>信心度 (低→高)</option>
+          <option value="confidence-desc">信心度 (高→低)</option>
+          <option value="verified-first">未驗證優先</option>
+          <option value="verified-last">已驗證優先</option>
         </select>
       </div>
     </div>
@@ -387,6 +398,7 @@
             <input
               type="checkbox"
               class="verify-checkbox"
+              onchange="updateStats()"
               {%
               if
               item.verified

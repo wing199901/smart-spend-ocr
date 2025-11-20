@@ -3,6 +3,33 @@ document.addEventListener('DOMContentLoaded', function () {
     loadFilterState();
 });
 
+// 更新統計數據
+function updateStats() {
+    const allCards = document.querySelectorAll('.item-card');
+    const verifiedCount = Array.from(allCards).filter(card =>
+        card.dataset.verified === 'true' || card.querySelector('.verify-checkbox')?.checked
+    ).length;
+    const totalCount = allCards.length;
+    const lowConfidenceCount = Array.from(allCards).filter(card => {
+        const confidence = parseFloat(card.dataset.confidence || 1);
+        return confidence < 0.8;
+    }).length;
+
+    // 更新數字
+    const stats = document.querySelectorAll('.stat-item strong');
+    if (stats[0]) stats[0].textContent = totalCount;
+    if (stats[1]) stats[1].textContent = verifiedCount;
+    if (stats[2]) stats[2].textContent = lowConfidenceCount;
+
+    // 更新進度條
+    const percentage = totalCount > 0 ? (verifiedCount / totalCount * 100) : 0;
+    const progressFill = document.querySelector('.progress-fill');
+    if (progressFill) {
+        progressFill.style.width = percentage + '%';
+        progressFill.textContent = percentage.toFixed(1) + '%';
+    }
+}
+
 function focusNextInput(currentInput) {
     // 獲取所有可見的輸入框
     const allInputs = Array.from(document.querySelectorAll('.item-input'))
@@ -38,6 +65,58 @@ function loadFilterState() {
         filterSelect.value = saved;
         filterItems();
     }
+
+    // 載入排序狀態
+    const savedSort = localStorage.getItem('verifierSortState');
+    const sortSelect = document.getElementById('sortSelect');
+
+    if (savedSort && sortSelect) {
+        sortSelect.value = savedSort;
+        sortItems();
+    }
+}
+
+function saveSortState() {
+    const sortSelect = document.getElementById('sortSelect');
+    if (sortSelect) {
+        localStorage.setItem('verifierSortState', sortSelect.value);
+    }
+}
+
+function sortItems() {
+    const container = document.getElementById('itemsContainer');
+    const cards = Array.from(container.querySelectorAll('.item-card'));
+    const sortSelect = document.getElementById('sortSelect');
+    const sortType = sortSelect ? sortSelect.value : 'confidence-asc';
+
+    cards.sort((a, b) => {
+        const aConfidence = parseFloat(a.dataset.confidence);
+        const bConfidence = parseFloat(b.dataset.confidence);
+        const aVerified = a.dataset.verified === 'true';
+        const bVerified = b.dataset.verified === 'true';
+
+        switch (sortType) {
+            case 'confidence-asc':
+                return aConfidence - bConfidence;
+            case 'confidence-desc':
+                return bConfidence - aConfidence;
+            case 'verified-first':
+                if (aVerified === bVerified) {
+                    return aConfidence - bConfidence;
+                }
+                return aVerified ? 1 : -1;
+            case 'verified-last':
+                if (aVerified === bVerified) {
+                    return aConfidence - bConfidence;
+                }
+                return aVerified ? -1 : 1;
+            default:
+                return aConfidence - bConfidence;
+        }
+    });
+
+    // 重新排列 DOM
+    cards.forEach(card => container.appendChild(card));
 }
 
 function executeBatchAction() {
@@ -305,6 +384,15 @@ function saveItem(button, imageName, regionIdx) {
                 // 更新卡片狀態為已驗證
                 card.classList.add('verified');
                 card.dataset.verified = 'true';
+
+                // 更新統計數據
+                updateStats();
+
+                // 重新排序 (如果選擇了驗證相關排序)
+                const sortSelect = document.getElementById('sortSelect');
+                if (sortSelect && (sortSelect.value === 'verified-first' || sortSelect.value === 'verified-last')) {
+                    sortItems();
+                }
             } else {
                 alert('❌ 保存失敗: ' + (data.error || '未知錯誤'));
                 button.disabled = false;
