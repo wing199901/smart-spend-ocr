@@ -9,6 +9,7 @@ import json
 import base64
 import shutil
 import logging
+import hashlib
 from pathlib import Path
 from flask import Flask, render_template, request, jsonify, abort
 import cv2
@@ -76,6 +77,12 @@ class QuickVerifier:
         self.verified_regions = 0
         self.corrected_regions = 0
 
+        # 初始化 MD5 映射 (用於檢查重複圖片)
+        self.md5_to_filename = {}
+        for img_name, anno in self.annotations.items():
+            if 'md5' in anno:
+                self.md5_to_filename[anno['md5']] = img_name
+
         # 自動檢測並處理 input 目錄中的新圖片
         self.process_input_folder()
 
@@ -91,15 +98,32 @@ class QuickVerifier:
                 logger.info("input 目錄中沒有新圖片")
                 return
 
-            # 過濾出未處理的圖片
-            new_images = [
-                img for img in image_files if img.name not in self.annotations]
+            # 過濾出未處理的圖片 (檢查檔名和 MD5)
+            new_images = []
+            duplicate_count = 0
+            for img in image_files:
+                if img.name in self.annotations:
+                    continue
+
+                # 計算 MD5 檢查是否為重複圖片
+                md5 = self.calculate_md5(img)
+                if md5 in self.md5_to_filename:
+                    logger.info(
+                        f"⚠️  跳過重複圖片: {img.name} (與 {self.md5_to_filename[md5]} 相同)")
+                    duplicate_count += 1
+                    continue
+
+                new_images.append(img)
 
             if not new_images:
+                if duplicate_count > 0:
+                    logger.info(f"發現 {duplicate_count} 張重複圖片已跳過")
                 logger.info(f"input 目錄中的 {len(image_files)} 張圖片都已處理")
                 return
 
             logger.info(f"發現 {len(new_images)} 張新圖片，開始自動處理...")
+            if duplicate_count > 0:
+                logger.info(f"跳過 {duplicate_count} 張重複圖片")
 
             # 導入並使用 ReceiptDatasetCreator 處理新圖片
             import sys
@@ -111,9 +135,13 @@ class QuickVerifier:
             for img_path in new_images:
                 try:
                     logger.info(f"處理: {img_path.name}")
+                    # 計算並保存 MD5
+                    md5 = self.calculate_md5(img_path)
                     annotation = creator.ocr_image(img_path)
+                    annotation['md5'] = md5
                     creator.annotations[img_path.name] = annotation
                     self.annotations[img_path.name] = annotation
+                    self.md5_to_filename[md5] = img_path.name
                     logger.info(
                         f"✓ {img_path.name}: 發現 {len(annotation.get('ocr_results', []))} 個文字區域")
                 except Exception as e:
@@ -143,6 +171,14 @@ class QuickVerifier:
             logger.info(f"保存標註: {self.annotations_file}")
         except Exception as e:
             logger.error(f"保存標註失敗: {e}")
+
+    def calculate_md5(self, file_path: Path) -> str:
+        """計算文件的 MD5 值"""
+        md5_hash = hashlib.md5()
+        with open(file_path, 'rb') as f:
+            for chunk in iter(lambda: f.read(4096), b""):
+                md5_hash.update(chunk)
+        return md5_hash.hexdigest()
 
     def get_verification_data(self) -> List[Dict]:
         """
@@ -199,7 +235,7 @@ class QuickVerifier:
 
                     verification_items.append({
                         'id': f"{image_name}_{idx}",
-                        'image_name': image_name,
+                        'image_name': crop_filename,  # 裁切圖片檔名
                         'region_idx': idx,
                         'cropped_image': img_base64,
                         'text': text,
@@ -231,11 +267,29 @@ class QuickVerifier:
                     logger.error(f"無效的更新格式: {update}")
                     continue
 
-                image_name = update.get('image_name')
+                crop_filename = update.get('image_name')  # 裁切圖片檔名
                 region_idx = update.get('region_idx')
 
-                if not image_name or region_idx is None:
+                if not crop_filename or region_idx is None:
                     logger.error(f"缺少必要欄位: {update}")
+                    continue
+
+                # 從裁切檔名提取原始圖片名稱 (例如: "IMG_1234_crop_000.jpg" -> "IMG_1234.jpg")
+                # 格式: {original_name}_crop_{idx}.jpg
+                if '_crop_' in crop_filename:
+                    original_name_part = crop_filename.split('_crop_')[0]
+                    # 找到對應的原始圖片 (可能有不同副檔名)
+                    image_name = None
+                    for key in self.annotations.keys():
+                        if key.startswith(original_name_part + '.'):
+                            image_name = key
+                            break
+
+                    if not image_name:
+                        logger.error(f"找不到對應的原始圖片: {crop_filename}")
+                        continue
+                else:
+                    logger.error(f"無效的裁切檔名格式: {crop_filename}")
                     continue
 
                 if image_name in self.annotations:
@@ -244,16 +298,16 @@ class QuickVerifier:
                         ocr_results[region_idx]['verified'] = update.get(
                             'verified', False)
 
-                        corrected_text = update.get('corrected_text')
-                        if corrected_text:
-                            # 清理文字，防止 CSV 注入
-                            corrected_text = corrected_text.strip()
-                            corrected_text = corrected_text.replace(
-                                '\n', ' ').replace('\r', '')
+                        label = update.get('label')
+                        if label:
+                            # 清理文字,防止 CSV 注入
+                            label = label.strip()
+                            label = label.replace('\n', ' ').replace('\r', '')
 
-                            ocr_results[region_idx]['corrected_text'] = corrected_text
-                            ocr_results[region_idx]['text'] = corrected_text
-                            logger.info(f"修正文字: {image_name}_{region_idx}")
+                            ocr_results[region_idx]['corrected_text'] = label
+                            ocr_results[region_idx]['text'] = label
+                            logger.info(
+                                f"修正文字: {image_name}_{region_idx} -> {label}")
 
             # 備份原文件
             backup_file = self.annotations_file.with_suffix('.json.bak')
@@ -296,11 +350,28 @@ class QuickVerifier:
                     logger.error(f"無效的刪除項目: {item}")
                     continue
 
-                image_name = item.get('image_name')
+                crop_filename = item.get('image_name')  # 這是裁切檔名
                 region_idx = item.get('region_idx')
 
-                if not image_name or region_idx is None:
+                if not crop_filename or region_idx is None:
                     logger.error(f"缺少必要欄位: {item}")
+                    continue
+
+                # 從裁切檔名提取原始圖片名稱
+                if '_crop_' in crop_filename:
+                    original_name_part = crop_filename.split('_crop_')[0]
+                    # 找到對應的原始圖片
+                    image_name = None
+                    for key in self.annotations.keys():
+                        if key.startswith(original_name_part + '.'):
+                            image_name = key
+                            break
+
+                    if not image_name:
+                        logger.warning(f"找不到對應的原始圖片: {crop_filename}")
+                        continue
+                else:
+                    logger.warning(f"無效的裁切檔名格式: {crop_filename}")
                     continue
 
                 if image_name not in delete_by_image:
@@ -587,6 +658,36 @@ def delete_regions():
         return jsonify({'success': False, 'error': str(e)}), 500
 
 
+@app.route('/api/stats', methods=['GET'])
+def get_stats():
+    """獲取統計數據（用於 AJAX 更新）"""
+    if verifier is None:
+        return jsonify({'success': False, 'error': 'Verifier not initialized'}), 500
+
+    try:
+        items = verifier.get_verification_data()
+
+        # 檢查 dataset_gt 和 dataset_lmdb 是否存在
+        dataset_exists = (Path('./dataset_gt/train/gt.txt').exists())
+        lmdb_exists = (Path('./dataset_lmdb/train').exists())
+
+        stats = {
+            'total': len(items),
+            'verified': sum(1 for item in items if item['verified']),
+            'low_confidence': sum(1 for item in items if item['confidence'] < 0.8),
+            'dataset_exists': dataset_exists,
+            'lmdb_exists': lmdb_exists,
+        }
+
+        return jsonify({
+            'success': True,
+            'data': stats
+        })
+    except Exception as e:
+        logger.error(f"獲取統計數據失敗: {e}")
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+
 @app.route('/api/delete_image', methods=['POST'])
 def delete_image():
     """刪除整個圖片"""
@@ -689,11 +790,13 @@ def generate_dataset():
 
         creator = ReceiptDatasetCreator()
         creator.annotations = verifier.annotations
-        creator.generate_training_dataset()
+        # 使用 8-1-1 比例 (train: 80%, valid: 10%, test: 10%)
+        creator.generate_training_dataset(
+            train_ratio=0.8, valid_ratio=0.1, test_ratio=0.1)
 
         return jsonify({
             'success': True,
-            'message': f'成功生成訓練數據集！已驗證 {verified_count} 個文字區域。',
+            'message': f'成功生成訓練數據集！已驗證 {verified_count} 個文字區域。\n比例: Train 80% | Valid 10% | Test 10%',
             'verified_count': verified_count
         })
 
@@ -808,7 +911,7 @@ def convert_to_lmdb():
 
 @app.route('/api/reprocess_images', methods=['POST'])
 def reprocess_images():
-    """重新處理 input 目錄中的所有圖片（強制重新 OCR）"""
+    """完全重置並重新處理所有圖片（清空所有數據）"""
     if verifier is None:
         return jsonify({'success': False, 'error': 'Verifier not initialized'}), 500
 
@@ -824,7 +927,36 @@ def reprocess_images():
                 'error': 'input 目錄中沒有圖片！'
             }), 400
 
-        logger.info(f"開始重新處理 {len(image_files)} 張圖片...")
+        logger.info("=== 開始完全重置 ===")
+
+        # 1. 清空 annotations.json
+        logger.info("步驟 1/4: 清空 annotations.json...")
+        verifier.annotations = {}
+        verifier.md5_to_filename = {}
+        verifier.save_annotations()
+
+        # 2. 清空 crops 目錄
+        logger.info("步驟 2/4: 清空 crops 目錄...")
+        if verifier.crops_dir.exists():
+            for crop_file in verifier.crops_dir.glob('*'):
+                try:
+                    crop_file.unlink()
+                except Exception as e:
+                    logger.warning(f"無法刪除 {crop_file}: {e}")
+        verifier.crops_dir.mkdir(parents=True, exist_ok=True)
+
+        # 3. 清空 deleted 目錄
+        logger.info("步驟 3/4: 清空 deleted 目錄...")
+        if verifier.deleted_dir.exists():
+            for deleted_file in verifier.deleted_dir.glob('*'):
+                try:
+                    deleted_file.unlink()
+                except Exception as e:
+                    logger.warning(f"無法刪除 {deleted_file}: {e}")
+        verifier.deleted_dir.mkdir(parents=True, exist_ok=True)
+
+        # 4. 重新處理所有圖片
+        logger.info(f"步驟 4/4: 重新處理 {len(image_files)} 張圖片...")
 
         # 導入 ReceiptDatasetCreator
         import sys
@@ -834,13 +966,35 @@ def reprocess_images():
         creator = ReceiptDatasetCreator()
         processed_count = 0
         failed_count = 0
+        skipped_count = 0
+
+        # 先計算所有圖片的 MD5,檢查重複
+        image_md5_map = {}
+        md5_seen = {}
 
         for img_path in image_files:
+            md5 = verifier.calculate_md5(img_path)
+            if md5 in md5_seen:
+                logger.info(
+                    f"⚠️  跳過重複圖片: {img_path.name} (與 {md5_seen[md5]} 相同)")
+                skipped_count += 1
+            else:
+                image_md5_map[img_path.name] = md5
+                md5_seen[md5] = img_path.name
+
+        for img_path in image_files:
+            # 跳過重複圖片
+            if img_path.name not in image_md5_map:
+                continue
+
             try:
-                logger.info(f"重新處理: {img_path.name}")
+                logger.info(f"處理: {img_path.name}")
+                md5 = image_md5_map[img_path.name]
                 annotation = creator.ocr_image(img_path)
+                annotation['md5'] = md5
                 creator.annotations[img_path.name] = annotation
                 verifier.annotations[img_path.name] = annotation
+                verifier.md5_to_filename[md5] = img_path.name
                 processed_count += 1
                 logger.info(
                     f"✓ {img_path.name}: 發現 {len(annotation.get('ocr_results', []))} 個文字區域")
@@ -858,11 +1012,18 @@ def reprocess_images():
             for anno in verifier.annotations.values()
         )
 
+        logger.info("=== 重置完成 ===")
+
+        message = f'重置完成！\n成功: {processed_count}\n失敗: {failed_count}'
+        if skipped_count > 0:
+            message += f'\n跳過重複: {skipped_count}'
+
         return jsonify({
             'success': True,
-            'message': f'重新處理完成！\n成功: {processed_count}\n失敗: {failed_count}',
+            'message': message,
             'processed': processed_count,
-            'failed': failed_count
+            'failed': failed_count,
+            'skipped': skipped_count
         })
 
     except Exception as e:

@@ -3,33 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
     loadFilterState();
 });
 
-// 更新統計數據
-function updateStats() {
-    const allCards = document.querySelectorAll('.item-card');
-    const verifiedCount = Array.from(allCards).filter(card =>
-        card.dataset.verified === 'true' || card.querySelector('.verify-checkbox')?.checked
-    ).length;
-    const totalCount = allCards.length;
-    const lowConfidenceCount = Array.from(allCards).filter(card => {
-        const confidence = parseFloat(card.dataset.confidence || 1);
-        return confidence < 0.8;
-    }).length;
-
-    // 更新數字
-    const stats = document.querySelectorAll('.stat-item strong');
-    if (stats[0]) stats[0].textContent = totalCount;
-    if (stats[1]) stats[1].textContent = verifiedCount;
-    if (stats[2]) stats[2].textContent = lowConfidenceCount;
-
-    // 更新進度條
-    const percentage = totalCount > 0 ? (verifiedCount / totalCount * 100) : 0;
-    const progressFill = document.querySelector('.progress-fill');
-    if (progressFill) {
-        progressFill.style.width = percentage + '%';
-        progressFill.textContent = percentage.toFixed(1) + '%';
-    }
-}
-
 function focusNextInput(currentInput) {
     // 獲取所有可見的輸入框
     const allInputs = Array.from(document.querySelectorAll('.item-input'))
@@ -354,10 +327,10 @@ function saveItem(button, imageName, regionIdx) {
     verifyCheckbox.checked = true;
 
     const update = {
-        image_name: imageName,
+        image_name: imageName,  // 裁切圖片檔名
         region_idx: regionIdx,
-        verified: true,  // 保存時自動驗證
-        corrected_text: currentText !== originalText ? currentText : null
+        verified: true,
+        label: currentText !== originalText ? currentText : null
     };
 
     fetch('/api/verify', {
@@ -424,7 +397,7 @@ function saveAll() {
             image_name: imageName,
             region_idx: parseInt(regionIdx),
             verified: verified,
-            corrected_text: currentText !== originalText ? currentText : null
+            label: currentText !== originalText ? currentText : null
         });
     });
 
@@ -498,6 +471,14 @@ async function generateDataset() {
         return;
     }
 
+    const modal = document.getElementById('processingModal');
+    const text = document.getElementById('processingText');
+    const subtext = document.getElementById('processingSubtext');
+
+    text.textContent = '🎯 生成訓練數據集中...';
+    subtext.textContent = '正在分割數據集,請稍候';
+    modal.classList.add('active');
+
     const btn = document.getElementById('generateBtn');
     btn.disabled = true;
     btn.textContent = '⏳ 生成中...';
@@ -513,18 +494,18 @@ async function generateDataset() {
         const result = await response.json();
 
         if (result.success) {
-            alert('✅ ' + result.message + '\n\n下一步：\n轉換為 LMDB 格式');
-            // 啟用 LMDB 轉換按鈕
-            const lmdbBtn = document.getElementById('lmdbBtn');
-            if (lmdbBtn) {
-                lmdbBtn.disabled = false;
-                lmdbBtn.removeAttribute('title');
-            }
+            document.querySelector('#processingModal .processing-spinner').style.display = 'none';
+            text.textContent = '✅ 數據集生成成功!';
+            subtext.innerHTML = result.message + '<br><br>下一步: 轉換為 LMDB 格式<br><br><button class="btn btn-primary" onclick="closeProcessingModal()">確認</button>';
         } else {
-            alert('❌ 生成失敗: ' + result.error);
+            document.querySelector('#processingModal .processing-spinner').style.display = 'none';
+            text.textContent = '❌ 生成失敗';
+            subtext.innerHTML = result.error + '<br><br><button class="btn btn-danger" onclick="closeProcessingModal()">關閉</button>';
         }
     } catch (error) {
-        alert('❌ 生成失敗: ' + error.message);
+        document.querySelector('#processingModal .processing-spinner').style.display = 'none';
+        text.textContent = '❌ 生成失敗';
+        subtext.innerHTML = error.message + '<br><br><button class="btn btn-danger" onclick="closeProcessingModal()">關閉</button>';
     } finally {
         btn.disabled = false;
         btn.textContent = '🎯 生成訓練數據集';
@@ -536,6 +517,14 @@ async function convertToLmdb() {
     if (!confirm('確定要轉換為 LMDB 格式嗎？\n這會執行 deep-text-recognition-benchmark/create_lmdb_dataset.py')) {
         return;
     }
+
+    const modal = document.getElementById('processingModal');
+    const text = document.getElementById('processingText');
+    const subtext = document.getElementById('processingSubtext');
+
+    text.textContent = '📦 轉換 LMDB 格式中...';
+    subtext.textContent = '正在創建 LMDB 數據庫,請稍候';
+    modal.classList.add('active');
 
     const btn = document.getElementById('lmdbBtn');
     btn.disabled = true;
@@ -552,12 +541,18 @@ async function convertToLmdb() {
         const result = await response.json();
 
         if (result.success) {
-            alert('✅ ' + result.message + '\n\n輸出目錄: dataset_lmdb/train/\n\n下一步：\n使用 deep-text-recognition-benchmark/train.py 開始訓練');
+            document.querySelector('#processingModal .processing-spinner').style.display = 'none';
+            text.textContent = '✅ LMDB 轉換成功!';
+            subtext.innerHTML = result.message + '<br><br>輸出目錄: dataset_lmdb/train/<br><br>下一步: 使用 deep-text-recognition-benchmark/train.py 開始訓練<br><br><button class="btn btn-primary" onclick="closeProcessingModal()">確認</button>';
         } else {
-            alert('❌ 轉換失敗: ' + result.error);
+            document.querySelector('#processingModal .processing-spinner').style.display = 'none';
+            text.textContent = '❌ 轉換失敗';
+            subtext.innerHTML = result.error + '<br><br><button class="btn btn-danger" onclick="closeProcessingModal()">關閉</button>';
         }
     } catch (error) {
-        alert('❌ 轉換失敗: ' + error.message);
+        document.querySelector('#processingModal .processing-spinner').style.display = 'none';
+        text.textContent = '❌ 轉換失敗';
+        subtext.innerHTML = error.message + '<br><br><button class="btn btn-danger" onclick="closeProcessingModal()">關閉</button>';
     } finally {
         btn.disabled = false;
         btn.textContent = '📦 轉換 LMDB 格式';
@@ -565,48 +560,137 @@ async function convertToLmdb() {
 }
 
 // 重新處理圖片
-window.reprocessImages = function () {
+window.reprocessImages = async function () {
     console.log('reprocessImages called');
 
-    if (!confirm('⚠️ 警告：重新處理圖片\n\n此操作會：\n1. 重新執行 OCR 處理 input 目錄中的所有圖片\n2. 重新生成所有裁切圖片（會覆蓋舊的）\n3. 更新 annotations.json（會覆蓋現有標註）\n\n已驗證的數據可能會丟失！\n\n確定要繼續嗎？')) {
+    if (!confirm('⚠️ 警告：完全重置並重新處理\n\n此操作會：\n1. 清空所有標註數據 (annotations.json)\n2. 清空所有裁切圖片 (crops/)\n3. 清空 MD5 記錄\n4. 重新 OCR input 目錄中的所有圖片\n\n所有驗證進度和修正都會丟失！\n\n確定要繼續嗎？')) {
         console.log('User cancelled');
         return;
     }
 
-    const btn = document.getElementById('reprocessBtn');
-    if (!btn) {
-        console.error('Button not found!');
-        return;
-    }
+    // 顯示 modal
+    const modal = document.getElementById('resetModal');
+    const progressFill = document.getElementById('resetProgressFill');
+    const progressText = document.getElementById('resetProgressText');
+    const resetMessage = document.getElementById('resetMessage');
+    const resetStatus = document.getElementById('resetStatus');
+    const resetSpinner = document.getElementById('resetSpinner');
+    const confirmBtn = document.getElementById('resetConfirmBtn');
 
-    btn.disabled = true;
-    btn.textContent = '⏳ 處理中...';
+    modal.classList.add('active');
+    confirmBtn.classList.remove('show');
+    resetSpinner.style.display = 'inline-block';
 
-    fetch('/api/reprocess_images', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
+    // 模擬進度更新
+    let progress = 0;
+    const progressInterval = setInterval(() => {
+        if (progress < 90) {
+            progress += Math.random() * 10;
+            if (progress > 90) progress = 90;
+            progressFill.style.width = progress + '%';
+            progressText.textContent = Math.floor(progress) + '%';
         }
-    })
-        .then(response => {
-            console.log('Response received:', response.status);
-            return response.json();
-        })
-        .then(result => {
-            console.log('Result:', result);
-            if (result.success) {
-                alert('✅ ' + result.message + '\n\n請重新載入頁面查看新結果');
-                location.reload();
-            } else {
-                alert('❌ 處理失敗: ' + result.error);
+    }, 300);
+
+    try {
+        resetMessage.textContent = '步驟 1/4: 清空數據...';
+        resetStatus.textContent = '正在清空 annotations.json';
+
+        await new Promise(resolve => setTimeout(resolve, 300));
+
+        resetMessage.textContent = '步驟 2/4: 清空裁切圖片...';
+        resetStatus.textContent = '正在清空 crops 目錄';
+
+        await new Promise(resolve => setTimeout(resolve, 300));
+
+        resetMessage.textContent = '步驟 3/4: 清空已刪除文件...';
+        resetStatus.textContent = '正在清空 deleted 目錄';
+
+        await new Promise(resolve => setTimeout(resolve, 300));
+
+        resetMessage.textContent = '步驟 4/4: 重新處理...';
+        resetStatus.textContent = '正在執行 OCR 並生成裁切圖片';
+
+        const response = await fetch('/api/reprocess_images', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
             }
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('❌ 處理失敗: ' + error.message);
-        })
-        .finally(() => {
-            btn.disabled = false;
-            btn.textContent = '🔄 重新處理圖片';
         });
+
+        const result = await response.json();
+
+        clearInterval(progressInterval);
+        progress = 100;
+        progressFill.style.width = '100%';
+        progressText.textContent = '100%';
+        resetSpinner.style.display = 'none';
+
+        if (result.success) {
+            resetMessage.textContent = '✅ 重置完成！';
+            resetStatus.textContent = result.message.replace(/\n/g, ' | ');
+            confirmBtn.classList.add('show');
+        } else {
+            resetMessage.textContent = '❌ 處理失敗';
+            resetStatus.textContent = result.error;
+            confirmBtn.classList.add('show');
+        }
+    } catch (error) {
+        clearInterval(progressInterval);
+        console.error('Error:', error);
+        resetMessage.textContent = '❌ 處理失敗';
+        resetStatus.textContent = error.message;
+        resetSpinner.style.display = 'none';
+        confirmBtn.classList.add('show');
+    }
 };
+
+function closeResetModal() {
+    const modal = document.getElementById('resetModal');
+    modal.classList.remove('active');
+    location.reload();
+}
+
+// ========== 返回頂部按鈕 ==========
+function scrollToTop() {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+}
+
+function closeProcessingModal() {
+    const modal = document.getElementById('processingModal');
+    const spinner = modal.querySelector('.processing-spinner');
+    spinner.style.display = 'inline-block';
+    modal.classList.remove('active');
+    // 不再重新載入頁面，改用 AJAX 更新統計數據
+    updateStats();
+}
+
+// 使用 AJAX 更新頁面統計數據
+async function updateStats() {
+    try {
+        const response = await fetch('/api/stats');
+        const stats = await response.json();
+
+        if (stats.success) {
+            // 更新統計數字
+            document.querySelector('.stat-item:nth-child(1) strong').textContent = stats.data.total;
+            document.querySelector('.stat-item:nth-child(2) strong').textContent = stats.data.verified;
+            document.querySelector('.stat-item:nth-child(3) strong').textContent = stats.data.low_confidence;
+
+            // 更新按鈕狀態
+            const lmdbBtn = document.getElementById('lmdbBtn');
+            if (stats.data.dataset_exists) {
+                lmdbBtn.disabled = false;
+                lmdbBtn.removeAttribute('title');
+            } else {
+                lmdbBtn.disabled = true;
+                lmdbBtn.setAttribute('title', '請先生成訓練數據集');
+            }
+        }
+    } catch (error) {
+        console.error('更新統計失敗:', error);
+    }
+}

@@ -1,363 +1,2176 @@
-test_samples_00005_crop_024.jpg	THANK YOU!
-test_samples_00005_crop_018.jpg	小計:
-test_samples_00005_crop_020.jpg	總計:
-test_samples_00005_crop_008.jpg	開單時間: 2025-10-31 12:28:39
-test_samples_00005_crop_001.jpg	收銀員:
-test_samples_00005_crop_000.jpg	伊勢堂
-test_samples_00005_crop_019.jpg	194.00
-test_samples_00005_crop_006.jpg	單號:
-test_samples_00005_crop_007.jpg	00382/1
-test_samples_00005_crop_002.jpg	Admin
-test_samples_00005_crop_003.jpg	流水號:
-test_samples_00005_crop_023.jpg	2
-test_samples_00005_crop_027.jpg	打印次數:
-test_samples_00005_crop_022.jpg	2025-10-31 12:56:19
-test_samples_00005_crop_014.jpg	B3 芥辣八爪魚魚生井
-test_samples_00005_crop_026.jpg	打印時間:
-test_samples_00005_crop_025.jpg	[PAID]
-test_samples_00005_crop_005.jpg	5
-IMG_6324_crop_021.jpg	八達通付款
-IMG_6324_crop_001.jpg	茗茶
-IMG_6324_crop_007.jpg	單號
-IMG_6324_crop_023.jpg	八達通號碼
-IMG_6324_crop_029.jpg	交易時間
-IMG_6324_crop_008.jpg	124
-IMG_6324_crop_009.jpg	01號機
-IMG_6324_crop_020.jpg	$33.00
-IMG_6324_crop_013.jpg	7分甜
-IMG_6324_crop_017.jpg	2
-IMG_6324_crop_006.jpg	外帶收據
-IMG_6324_crop_030.jpg	2025-10-14 18:12:35
-IMG_6324_crop_036.jpg	多謝惠顧, 塑膠購物袋收費恕不設退款.
-IMG_6324_crop_026.jpg	53134D
-IMG_6324_crop_027.jpg	餘額
-IMG_6324_crop_019.jpg	八達通
-IMG_6324_crop_004.jpg	2025-10-14 18:12:36
-IMG_6324_crop_022.jpg	33.00
-IMG_6324_crop_034.jpg	電話: 28860565
-222_crop_023.jpg	10036501
-222_crop_035.jpg	總計
-222_crop_051.jpg	Terms and Conditions.
-222_crop_033.jpg	1.00
-222_crop_015.jpg	金額
-222_crop_016.jpg	10511601
-222_crop_009.jpg	2025-11-02 17:04:14
-222_crop_012.jpg	商品
-222_crop_036.jpg	37.80
-222_crop_041.jpg	已付金額
-222_crop_037.jpg	促銷金額
-222_crop_001.jpg	銷售單
-222_crop_032.jpg	1.00/件.
-222_crop_017.jpg	13.90
-222_crop_024.jpg	22.90
-222_crop_020.jpg	李錦記甜豉油207ML
-222_crop_038.jpg	-8.40
-222_crop_014.jpg	數量
-222_crop_047.jpg	500.00
-222_crop_018.jpg	1.00/件.
-222_crop_002.jpg	店鋪
-222_crop_046.jpg	現金
-222_crop_050.jpg	All promotion offers are subject to the
-222_crop_013.jpg	單價
-222_crop_030.jpg	10313901
-222_crop_008.jpg	交易時間
-222_crop_011.jpg	S0B73012511001191
-222_crop_019.jpg	13.90
-test_samples_00012_crop_025.jpg	2000203633881
-test_samples_00012_crop_036.jpg	79
-test_samples_00012_crop_024.jpg	Sports short socks
-test_samples_00012_crop_014.jpg	Receipt
-test_samples_00012_crop_020.jpg	[14:53]
-test_samples_00012_crop_030.jpg	Multi-unit promo price 3 for
-test_samples_00012_crop_017.jpg	<0010>
-test_samples_00012_crop_034.jpg	Subtotal
-test_samples_00012_crop_032.jpg	Units sold
-test_samples_00012_crop_008.jpg	Tsing Yi,
-test_samples_00012_crop_028.jpg	2000203135859
-test_samples_00012_crop_018.jpg	[14:53]
-test_samples_00012_crop_026.jpg	@29.00
-test_samples_00012_crop_039.jpg	HKD 79.00
-test_samples_00012_crop_037.jpg	00
-test_samples_00012_crop_009.jpg	N.T.
-test_samples_00012_crop_011.jpg	Tel:
-test_samples_00012_crop_021.jpg	2000203633805
-test_samples_00012_crop_019.jpg	*
-test_samples_00012_crop_031.jpg	HKD 79.00
-test_samples_00012_crop_022.jpg	@29.00
-test_samples_00009_crop_004.jpg	Tel
-test_samples_00009_crop_007.jpg	Shop No.5,
-test_samples_00009_crop_032.jpg	$0.00
-test_samples_00009_crop_040.jpg	$346.90
-test_samples_00009_crop_026.jpg	1小計
-test_samples_00009_crop_000.jpg	百佳
-test_samples_00009_crop_038.jpg	0
-test_samples_00009_crop_005.jpg	2495
-test_samples_00009_crop_035.jpg	$21.
-777_crop_013.jpg	2025-10-19
-777_crop_011.jpg	員工: 蔣玉春
-777_crop_007.jpg	18
-777_crop_014.jpg	時間: 14:43:28
-777_crop_008.jpg	人數: 1
-777_crop_034.jpg	卡號:
-777_crop_021.jpg	凍新鮮冷壓檸檬茶
-777_crop_006.jpg	檯號:
-777_crop_035.jpg	171105904
-777_crop_033.jpg	$132.0
-777_crop_026.jpg	凍新鮮冷壓檸檬茶
-777_crop_038.jpg	$.4
-777_crop_022.jpg	3.0
-777_crop_005.jpg	收據
-777_crop_029.jpg	$132.0
-777_crop_009.jpg	單號:
-777_crop_010.jpg	11267115
-777_crop_020.jpg	40.0
-777_crop_030.jpg	總計:
-777_crop_036.jpg	機號:5154CE
-777_crop_031.jpg	$132.0
-555_crop_053.jpg	199.60
-555_crop_071.jpg	813.02
-555_crop_052.jpg	49. 90
-555_crop_001.jpg	CLUB
-555_crop_069.jpg	-39.48
-555_crop_000.jpg	Sam's
-555_crop_016.jpg	65.90
-555_crop_059.jpg	15
-555_crop_056.jpg	53.90
-555_crop_020.jpg	55.90
-555_crop_043.jpg	49.90
-555_crop_057.jpg	53.90
-555_crop_007.jpg	06911 004
-555_crop_026.jpg	981106068
-555_crop_015.jpg	65.90
-555_crop_055.jpg	49.90
-555_crop_011.jpg	單价
-555_crop_060.jpg	852.50
-555_crop_027.jpg	47.90
-555_crop_038.jpg	980223732
-555_crop_035.jpg	75.90
-555_crop_030.jpg	980230364
-555_crop_034.jpg	75.90
-555_crop_024.jpg	59.90
-555_crop_032.jpg	75. 90
-555_crop_066.jpg	憑証號
-555_crop_049.jpg	159.80
-555_crop_051.jpg	981014614
-555_crop_042.jpg	980216853
-test_samples_00003_crop_052.jpg	001-2025/10/20 12:37:58
-test_samples_00003_crop_029.jpg	不用加配
-test_samples_00003_crop_048.jpg	No 10% Service Charge
-test_samples_00003_crop_050.jpg	B I
-test_samples_00003_crop_030.jpg	$0.0
-test_samples_00003_crop_018.jpg	$30.
-test_samples_00003_crop_020.jpg	$12.0
-test_samples_00003_crop_026.jpg	$35.0
-test_samples_00003_crop_038.jpg	$2.0
-test_samples_00003_crop_053.jpg	PDA
-test_samples_00003_crop_040.jpg	5B145D
-test_samples_00003_crop_034.jpg	$196.0
-test_samples_00003_crop_006.jpg	44
-test_samples_00003_crop_036.jpg	193925401
-test_samples_00003_crop_047.jpg	0
-test_samples_00003_crop_012.jpg	$0.0
-test_samples_00003_crop_028.jpg	$15.0
-111_crop_015.jpg	$53.00
-111_crop_059.jpg	/100811
-111_crop_009.jpg	賬單:
-111_crop_058.jpg	:46/8584/1
-111_crop_045.jpg	534FE4
-111_crop_038.jpg	八達通
-111_crop_043.jpg	$-10.2
-111_crop_017.jpg	$0.00
-111_crop_019.jpg	:米線底
-111_crop_011.jpg	堂食
-111_crop_055.jpg	20251025/14:
-111_crop_050.jpg	每日可登記最多5張帳單及最多合共5,000分
-111_crop_036.jpg	$106.00
-111_crop_008.jpg	人數:2
-111_crop_023.jpg	走甜
-test_samples_00006_crop_023.jpg	八達通機號
-test_samples_00006_crop_018.jpg	總數
-test_samples_00006_crop_019.jpg	$26.0
-test_samples_00006_crop_011.jpg	15/11/2025
-test_samples_00006_crop_014.jpg	鄉村軟法包
-test_samples_00006_crop_022.jpg	八達通號碼
-test_samples_00006_crop_024.jpg	102328199
-test_samples_00006_crop_015.jpg	$26.0
-test_samples_00006_crop_010.jpg	001
-test_samples_00006_crop_004.jpg	24310268
-test_samples_00006_crop_020.jpg	八達通
-test_samples_00006_crop_027.jpg	$413.3
-test_samples_00006_crop_003.jpg	電話
-test_samples_00006_crop_016.jpg	點菜總數
-test_samples_00006_crop_001.jpg	Panash
-test_samples_00006_crop_028.jpg	上一次於2025-11-15自動增值
-test_samples_00006_crop_002.jpg	葵芳興芳路223號新都會廣場4樓480A號舖
-test_samples_00006_crop_009.jpg	MEI CHUN HONG
-test_samples_00006_crop_030.jpg	請再光臨
-test_samples_00006_crop_025.jpg	40DC64
-test_samples_00006_crop_021.jpg	$26.0
-test_samples_00006_crop_034.jpg	員工
-test_samples_00006_crop_026.jpg	八達通餘額
-test_samples_00006_crop_006.jpg	01465
-test_samples_00008_crop_027.jpg	13.80
-test_samples_00008_crop_024.jpg	小計
-test_samples_00008_crop_017.jpg	凍檸檬茶
-test_samples_00008_crop_032.jpg	單號
-test_samples_00008_crop_007.jpg	S10
-test_samples_00008_crop_025.jpg	138.00
-test_samples_00008_crop_023.jpg	熱檸橡水
-test_samples_00008_crop_019.jpg	00
-test_samples_00008_crop_001.jpg	熟客
-test_samples_00008_crop_011.jpg	開檯時間
-test_samples_00008_crop_031.jpg	22/10/2025 13:48:39
-test_samples_00008_crop_013.jpg	SL18 谷飼肥牛牛筋
-test_samples_00008_crop_029.jpg	152.00
-test_samples_00008_crop_009.jpg	276012
-test_samples_00008_crop_012.jpg	22/10/2025 13:48:38
-test_samples_00008_crop_010.jpg	開檯員工:ODOServer(不可刪)
-test_samples_00008_crop_026.jpg	加一服務費
-test_samples_00008_crop_018.jpg	2
-test_samples_00008_crop_033.jpg	276012
-test_samples_00008_crop_020.jpg	SL17 谷飼肥牛喇沙
-test_samples_00008_crop_008.jpg	賬單號碼
-IMG_6323_crop_024.jpg	凍冬瓜茶
-IMG_6323_crop_039.jpg	26/10/2025 19:03:24
-IMG_6323_crop_011.jpg	0.00
-IMG_6323_crop_036.jpg	AE
-IMG_6323_crop_000.jpg	阿城鵝肉
-IMG_6323_crop_023.jpg	1
-IMG_6323_crop_044.jpg	A12540-S01
-IMG_6323_crop_015.jpg	39.00
-IMG_6323_crop_042.jpg	26387
-IMG_6323_crop_006.jpg	結賬時間
-IMG_6323_crop_028.jpg	總計
-IMG_6323_crop_043.jpg	POS編號
-IMG_6323_crop_002.jpg	32
-IMG_6323_crop_025.jpg	12.00
-IMG_6323_crop_027.jpg	326.00
-IMG_6323_crop_012.jpg	辣拌意麵
-IMG_6323_crop_037.jpg	326.00
-IMG_6323_crop_004.jpg	26387
-IMG_6323_crop_008.jpg	入數:2
-IMG_6323_crop_013.jpg	49.00
-IMG_6323_crop_026.jpg	小計
-IMG_6323_crop_009.jpg	1
-444_crop_011.jpg	$39.00
-444_crop_063.jpg	eating?
-444_crop_073.jpg	best
-444_crop_049.jpg	(HK)
-444_crop_067.jpg	FBTI"
-444_crop_054.jpg	"FBTI" Food Personal
-444_crop_012.jpg	034186 士多啤梨250克(中
-444_crop_066.jpg	fun
-444_crop_064.jpg	Take
-444_crop_021.jpg	$0.00
-444_crop_050.jpg	Limited
-444_crop_015.jpg	$74.00
-444_crop_043.jpg	Excludes shopping
-444_crop_017.jpg	$74. 00
-444_crop_023.jpg	171105904
-444_crop_061.jpg	should
-444_crop_039.jpg	Original
-444_crop_048.jpg	deposit and selected products
-444_crop_055.jpg	ty
-444_crop_062.jpg	be
-444_crop_065.jpg	this
-444_crop_040.jpg	receipt needed for refund/
-444_crop_074.jpg	matches your unique personality
-444_crop_044.jpg	deposit and selected products.
-444_crop_042.jpg	exchange within 7days.
-444_crop_014.jpg	$35.00
-444_crop_007.jpg	14
-IMG_6327_crop_031.jpg	Cash
-IMG_6327_crop_012.jpg	18:38
-IMG_6327_crop_027.jpg	Total
-IMG_6327_crop_025.jpg	10% Service:
-IMG_6327_crop_022.jpg	Sub Total
-IMG_6327_crop_013.jpg	17:50 C01牛骨湯飯
-IMG_6327_crop_029.jpg	Total
-IMG_6327_crop_002.jpg	Tel:2495-0822
-IMG_6327_crop_017.jpg	17:50 C05軟滑豆腐海鮮湯
-IMG_6327_crop_014.jpg	98.0
-IMG_6327_crop_023.jpg	316.0
-IMG_6327_crop_008.jpg	Staff: 經理
-IMG_6327_crop_020.jpg	17:50 D08紫菜卷飯
-IMG_6327_crop_021.jpg	62.0
-IMG_6327_crop_010.jpg	Date: 2025-09-25
-IMG_6327_crop_033.jpg	Welcome
-IMG_6327_crop_018.jpg	滿]辣)
-IMG_6327_crop_015.jpg	17:50 C04辣泡菜湯飯
-IMG_6327_crop_001.jpg	九龍青衣細山路2號美景花園平臺72號舖
-IMG_6327_crop_006.jpg	5
-IMG_6327_crop_003.jpg	#: 1
-IMG_6327_crop_028.jpg	$348.0
-IMG_6327_crop_007.jpg	Cardno: 800012
-test_samples_00007_crop_012.jpg	日本北海道3.6朱古力
-test_samples_00007_crop_014.jpg	折扣 -$5.0
-test_samples_00007_crop_027.jpg	$64.0
-test_samples_00007_crop_017.jpg	$64.0
-test_samples_00007_crop_028.jpg	交易類別
-test_samples_00007_crop_016.jpg	總金額
-test_samples_00007_crop_019.jpg	付款方式
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_021.jpg	$60.0
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_022.jpg	總數
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_037.jpg	等餐編號
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_023.jpg	$60.0
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_029.jpg	193925401
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_014.jpg	1
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_007.jpg	員工
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_025.jpg	$60.0
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_015.jpg	1
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_004.jpg	91525
-3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_011.jpg	油麵
-IMG_6325_crop_014.jpg	可樂 (套餐)
-IMG_6325_crop_016.jpg	44.00
-IMG_6325_crop_001.jpg	McDonald's Hong Kong
-IMG_6325_crop_027.jpg	堂食 Total
-IMG_6325_crop_006.jpg	2798 6967
-IMG_6325_crop_008.jpg	數量 產品
-IMG_6325_crop_013.jpg	1
-IMG_6325_crop_004.jpg	Kowloon
-IMG_6325_crop_003.jpg	Amoy Plaza Phase II
-IMG_6325_crop_033.jpg	機號/交易編號
-IMG_6325_crop_036.jpg	137.60
-IMG_6325_crop_029.jpg	八達通付款
-IMG_6325_crop_023.jpg	1
-IMG_6325_crop_030.jpg	96.00
-IMG_6325_crop_026.jpg	96.00
-IMG_6325_crop_019.jpg	可樂 (套餐)
-IMG_6325_crop_010.jpg	1 雙層芝土孖堡餐+
-IMG_6325_crop_024.jpg	泰式辣醬(1包)
-IMG_6325_crop_032.jpg	0193925401
-IMG_6325_crop_002.jpg	(238)
-IMG_6325_crop_035.jpg	八達通餘額
-IMG_6325_crop_038.jpg	多謝惠顧,塑膠購物袋收費恕不設退款.
-IMG_6325_crop_012.jpg	1 餐中薯條
-test_samples_00011_crop_013.jpg	$18.00
-test_samples_00011_crop_005.jpg	Tsing Yi Island,
-test_samples_00011_crop_016.jpg	(手動)
-test_samples_00011_crop_000.jpg	& L Coffee
-test_samples_00011_crop_008.jpg	000-0134
-test_samples_00011_crop_015.jpg	八達通
-test_samples_00011_crop_001.jpg	Tsing Yi
-test_samples_00011_crop_011.jpg	14:23:21
-test_samples_00011_crop_017.jpg	$18.00
-test_samples_00011_crop_009.jpg	堂食
-test_samples_00011_crop_007.jpg	帳單:
-test_samples_00011_crop_006.jpg	N.T.
-test_samples_00011_crop_010.jpg	日期: 2025/10/31
-test_samples_00011_crop_025.jpg	Thank You
-test_samples_00010_crop_001.jpg	Pick Coffee (Tsing Yi
-test_samples_00010_crop_000.jpg	檯: B4
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_024.jpg	257.00
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_030.jpg	打印時間:
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_034.jpg	打印次數:
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_011.jpg	2
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_001.jpg	Dine In
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_020.jpg	D1面豉湯
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_015.jpg	58.00
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_002.jpg	收銀員:
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_009.jpg	開單時間: 2025-10-24 17:15:00
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_006.jpg	12
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_013.jpg	58.00
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_010.jpg	人數:
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_036.jpg	THANK
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_033.jpg	2025-10-24
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_008.jpg	00909/1
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_000.jpg	伊勢堂
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_029.jpg	[PAID]
+3FB42856-9AE7-4D64-8048-7C562820F04E_crop_003.jpg	Admin
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_009.jpg	Batch: 000301
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_014.jpg	HKD 500.00
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_008.jpg	2025091800134115
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_028.jpg	2025091
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_000.jpg	COMPANY
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_012.jpg	18/9/2025 13:47:41
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_017.jpg	the contents of the transaction herein.
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_006.jpg	799401001240288429274
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_021.jpg	醉雅貿易公司
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_011.jpg	Txntime:
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_018.jpg	Customer Copy 持卡人存根
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_016.jpg	service and assumes no responsibility for
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_004.jpg	收款
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_027.jpg	PAYMENT
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_029.jpg	KPay
+29212c89-2dd6-4bab-bec7-9a22330ad23e_crop_003.jpg	400709
+dcvbn_crop_067.jpg	995.00
+dcvbn_crop_008.jpg	28/11/2025 19:59:33
+dcvbn_crop_004.jpg	賬單號碼
+dcvbn_crop_000.jpg	Madrid Sizzling
+dcvbn_crop_033.jpg	178.00
+dcvbn_crop_037.jpg	凍港式咖啡
+dcvbn_crop_049.jpg	18.00
+dcvbn_crop_045.jpg	鐵板肉眼牛扒
+dcvbn_crop_060.jpg	995.00
+dcvbn_crop_039.jpg	走甜
+dcvbn_crop_024.jpg	8.00
+dcvbn_crop_046.jpg	158.00
+dcvbn_crop_041.jpg	凍檸檬茶
+dcvbn_crop_007.jpg	結賬時間
+dcvbn_crop_027.jpg	8.00
+dcvbn_crop_012.jpg	斧
+dcvbn_crop_062.jpg	995.00
+dcvbn_crop_061.jpg	已付
+dcvbn_crop_059.jpg	總計
+dcvbn_crop_017.jpg	海蝦意粉
+dcvbn_crop_011.jpg	158.00
+dcvbn_crop_054.jpg	1,048.00
+dcvbn_crop_066.jpg	VISA
+dcvbn_crop_044.jpg	1
+dcvbn_crop_036.jpg	走甜
+dcvbn_crop_014.jpg	1
+dcvbn_crop_065.jpg	付款方法
+dcvbn_crop_057.jpg	加一服務費
+dcvbn_crop_055.jpg	折扣
+dcvbn_crop_050.jpg	凍檸橡茶
+dcvbn_crop_026.jpg	白桃梳打
+dcvbn_crop_020.jpg	178
+dcvbn_crop_043.jpg	少甜
+dcvbn_crop_029.jpg	198.00
+dcvbn_crop_040.jpg	1
+dcvbn_crop_023.jpg	紅豆冰
+dcvbn_crop_003.jpg	21
+dcvbn_crop_009.jpg	1
+dcvbn_crop_068.jpg	28/11/2025 19:59:33
+dcvbn_crop_058.jpg	104.80
+dcvbn_crop_070.jpg	125522
+dcvbn_crop_053.jpg	小計
+cfvgbhn_crop_084.jpg	13/11-31/12
+cfvgbhn_crop_018.jpg	$33 . 00
+cfvgbhn_crop_024.jpg	$48.00
+cfvgbhn_crop_075.jpg	871033116574420251127
+cfvgbhn_crop_053.jpg	收據正本到本店
+cfvgbhn_crop_107.jpg	Trade Promotion Competition
+cfvgbhn_crop_051.jpg	如需退換或退款
+cfvgbhn_crop_070.jpg	details
+cfvgbhn_crop_031.jpg	5C113A
+cfvgbhn_crop_015.jpg	Fong
+cfvgbhn_crop_021.jpg	-$14.90
+cfvgbhn_crop_086.jpg	can
+cfvgbhn_crop_030.jpg	機號
+cfvgbhn_crop_089.jpg	by net purchase of $100
+cfvgbhn_crop_048.jpg	單號#:0260
+cfvgbhn_crop_099.jpg	over $60M
+cfvgbhn_crop_056.jpg	詳情請參閱網站
+cfvgbhn_crop_002.jpg	Kwai
+cfvgbhn_crop_091.jpg	Get
+cfvgbhn_crop_044.jpg	收銀員姓名: SC06
+cfvgbhn_crop_045.jpg	店鋪: 00103
+cfvgbhn_crop_029.jpg	八達通付款
+cfvgbhn_crop_026.jpg	$48.00
+cfvgbhn_crop_055.jpg	金及指定產品
+cfvgbhn_crop_092.jpg	a chance to
+cfvgbhn_crop_057.jpg	Original
+cfvgbhn_crop_038.jpg	交易號碼
+cfvgbhn_crop_009.jpg	Centre
+cfvgbhn_crop_016.jpg	N.T
+cfvgbhn_crop_090.jpg	or above
+cfvgbhn_crop_077.jpg	11月13日至12月31日易賞錢會員
+cfvgbhn_crop_054.jpg	不適用於借用購物車按
+cfvgbhn_crop_067.jpg	selected products
+cfvgbhn_crop_011.jpg	Kwai
+cfvgbhn_crop_080.jpg	有機會蠃來回台北機票!
+cfvgbhn_crop_104.jpg	MoneyBack
+cfvgbhn_crop_106.jpg	60797-802
+cfvgbhn_crop_083.jpg	[MoneyBack Instant Lucky Draw
+cfvgbhn_crop_041.jpg	2025-11-27
+cfvgbhn_crop_023.jpg	2 小計
+cfvgbhn_crop_004.jpg	2428
+cfvgbhn_crop_109.jpg	60797-802
+cfvgbhn_crop_101.jpg	即掃QR code
+cfvgbhn_crop_006.jpg	Shop 16-37
+cfvgbhn_crop_007.jpg	G/F
+cfvgbhn_crop_069.jpg	for
+cfvgbhn_crop_058.jpg	receipt
+cfvgbhn_crop_059.jpg	needed
+cfvgbhn_crop_042.jpg	16:57:56
+cfvgbhn_crop_003.jpg	Tel
+cfvgbhn_crop_036.jpg	餘額
+cfvgbhn_crop_063.jpg	within 7days.
+cfvgbhn_crop_079.jpg	買滿$100即可參加 即買即抽
+cfvgbhn_crop_040.jpg	日期/時間
+cfvgbhn_crop_065.jpg	trolley deposit
+cfvgbhn_crop_094.jpg	Round-trip tickets
+cfvgbhn_crop_110.jpg	Fong
+cfvgbhn_crop_037.jpg	$361.00
+cfvgbhn_crop_034.jpg	扣除金額
+cfvgbhn_crop_005.jpg	7716
+cfvgbhn_crop_025.jpg	Octopus
+IMG_6333_crop_045.jpg	凍檸檬茶
+IMG_6333_crop_049.jpg	$35.00
+IMG_6333_crop_028.jpg	$0.00
+IMG_6333_crop_048.jpg	滑牛肉[x2],雞肉
+IMG_6333_crop_043.jpg	:米線底,少米線
+IMG_6333_crop_056.jpg	總金額
+IMG_6333_crop_047.jpg	自選米線
+IMG_6333_crop_020.jpg	$0.00
+IMG_6333_crop_050.jpg	米線底,走芽菜
+IMG_6333_crop_033.jpg	$20.00
+IMG_6333_crop_014.jpg	堂食
+IMG_6333_crop_008.jpg	Tel:26431088
+IMG_6333_crop_015.jpg	落單時間:2025-11-20 17:54:07
+IMG_6333_crop_038.jpg	$35.00
+IMG_6333_crop_058.jpg	以四捨五入計算至整數
+IMG_6333_crop_001.jpg	三哥
+IMG_6333_crop_054.jpg	小計金額
+IMG_6333_crop_005.jpg	譚仔三哥米線
+IMG_6333_crop_055.jpg	$239.00
+IMG_6333_crop_006.jpg	S057-旺角登打士街
+IMG_6333_crop_035.jpg	酸辣
+IMG_6333_crop_024.jpg	:米線底
+IMG_6333_crop_021.jpg	:墨丸,貢丸,豆卜,雞肉
+IMG_6333_crop_053.jpg	$2.00
+IMG_6333_crop_044.jpg	$-1.00
+IMG_6333_crop_057.jpg	$239.00
+IMG_6333_crop_009.jpg	檯號:
+IMG_6333_crop_012.jpg	賬單:
+IMG_6333_crop_042.jpg	$2.00
+IMG_6333_crop_010.jpg	18A
+IMG_6333_crop_030.jpg	自選米線
+IMG_6333_crop_026.jpg	$0.00
+IMG_6333_crop_011.jpg	人數:1
+IMG_6333_crop_029.jpg	:少冰
+IMG_6333_crop_027.jpg	凍好立克
+IMG_6333_crop_013.jpg	000-0197
+IMG_6333_crop_036.jpg	$1.00
+IMG_6333_crop_018.jpg	$54.00
+IMG_6333_crop_019.jpg	晚市套餐
+IMG_6333_crop_046.jpg	$11.00
+IMG_6333_crop_039.jpg	雞肉,竹笙
+IMG_6333_crop_031.jpg	$35.00
+IMG_6333_crop_034.jpg	米線底,走腐皮
+20251120_175427_crop_016.jpg	7.9
+20251120_175427_crop_023.jpg	付款金額 : $
+20251120_175427_crop_009.jpg	員工編號
+20251120_175427_crop_006.jpg	2025/11/03 16:34:07
+20251120_175427_crop_008.jpg	20251103937B0197
+20251120_175427_crop_024.jpg	6.1
+20251120_175427_crop_015.jpg	1$
+20251120_175427_crop_003.jpg	收銀機
+20251120_175427_crop_029.jpg	0.0
+20251120_175427_crop_011.jpg	會員編號
+20251120_175427_crop_020.jpg	小計
+20251120_175427_crop_038.jpg	70633294
+20251120_175427_crop_017.jpg	折扣 $1.8
+20251120_175427_crop_010.jpg	B3CP02
+20251120_175427_crop_019.jpg	-1.8
+test_samples_00010_crop_021.jpg	$0
+test_samples_00010_crop_026.jpg	$39.
+test_samples_00010_crop_027.jpg	總計:
+test_samples_00010_crop_028.jpg	$432.3
+test_samples_00010_crop_037.jpg	多謝惠顧
+test_samples_00010_crop_022.jpg	項目總計
 test_samples_00010_crop_017.jpg	餐湯
 test_samples_00010_crop_020.jpg	(SET FREE)
-test_samples_00010_crop_018.jpg	$0.
-test_samples_00010_crop_026.jpg	$39.
+test_samples_00010_crop_010.jpg	開單時間: 14:12:50
 test_samples_00010_crop_016.jpg	$182.
-test_samples_00010_crop_028.jpg	$432.3
-test_samples_00010_crop_023.jpg	$393.
-test_samples_00010_crop_022.jpg	項目總計
-IMG_6328_crop_019.jpg	$30.0
-IMG_6328_crop_006.jpg	44
-IMG_6328_crop_009.jpg	7858
+test_samples_00010_crop_001.jpg	Pick Coffee (Tsing Yi
+test_samples_00010_crop_000.jpg	檯: B4
+test_samples_00010_crop_018.jpg	$0.
+20251129_154847_crop_009.jpg	7 D-雪糕杯/脆 $33.0
+20251129_154847_crop_020.jpg	12.6
+20251129_154847_crop_000.jpg	CIRCLE
+20251129_154847_crop_001.jpg	店號 (Store):276
+20251129_154847_crop_002.jpg	安盛工廈(3124 1141)
+20251129_154847_crop_013.jpg	總計 (Total):
+20251129_154847_crop_005.jpg	17:22
+20251129_154847_crop_004.jpg	2025/11/27
+20251129_154847_crop_019.jpg	餘額 (Remaining Value):
+20251129_154847_crop_016.jpg	28.0
+20251129_154847_crop_018.jpg	0.0
+20251129_154847_crop_011.jpg	$5現金電子券
+20251129_154847_crop_015.jpg	八達通 (Octopus):
+20251129_154847_crop_010.jpg	-39.0
+20251129_154847_crop_012.jpg	-5.0
+20251129_154847_crop_028.jpg	2025/11/27
+20251129_154847_crop_014.jpg	28.0
+20251129_154847_crop_029.jpg	17:22:13
+20251129_154847_crop_027.jpg	(Transaction Time):
+20251129_154847_crop_023.jpg	多謝惠顧 (Thank You)
+20251129_154907_crop_012.jpg	總數量
+20251129_154907_crop_013.jpg	1.00
+20251129_154907_crop_005.jpg	1010072
+20251129_154907_crop_023.jpg	531892
+20251129_154907_crop_017.jpg	$58.00
+20251129_154907_crop_004.jpg	銷售單
+20251129_154907_crop_015.jpg	$58.00
+20251129_154907_crop_018.jpg	餘額
+20251129_154907_crop_026.jpg	2025/11/27 17:32:37
+20251129_154907_crop_022.jpg	機號
+20251129_154907_crop_011.jpg	$-20.00
+20251129_154907_crop_009.jpg	$78.00
+20251129_154907_crop_010.jpg	折扣25.64%
+20251129_154907_crop_019.jpg	$326.50
+20251129_154907_crop_020.jpg	八達通號碼
+20251129_154907_crop_001.jpg	Gold Rich Gourmet Shop
+20251129_154907_crop_028.jpg	鐵(CY) / CYMK1-2
+20251129_154907_crop_029.jpg	發票種類
+20251129_154907_crop_016.jpg	八達通付款
+20251129_154907_crop_024.jpg	發票號碼
+20251129_154907_crop_014.jpg	合計 :
+20251129_154907_crop_025.jpg	0101095
+20251120_181810_crop_025.jpg	:走甜
+20251120_181810_crop_009.jpg	賬單:
+20251120_181810_crop_007.jpg	25A
+20251120_181810_crop_018.jpg	$0.00
+20251120_181810_crop_027.jpg	$34.00
+20251120_181810_crop_004.jpg	Tel:22781183
+20251120_181810_crop_008.jpg	人數:1
+20251120_181810_crop_011.jpg	堂食
+20251120_181810_crop_024.jpg	$3.00
+20251120_181810_crop_010.jpg	0361
+20251120_181810_crop_006.jpg	檯號:
+20251120_181810_crop_020.jpg	$8.00
+20251120_181810_crop_026.jpg	小計金額
+20251120_181810_crop_002.jpg	J065-將軍澳日出康城
+20251120_181810_crop_005.jpg	收據
+20251120_181810_crop_000.jpg	雲 南 米 線
+IMG_6323_crop_013.jpg	49.00
+IMG_6323_crop_008.jpg	入數:2
+IMG_6323_crop_046.jpg	檯號
+IMG_6323_crop_009.jpg	1
+IMG_6323_crop_027.jpg	326.00
+IMG_6323_crop_036.jpg	AE
+IMG_6323_crop_042.jpg	26387
+IMG_6323_crop_039.jpg	26/10/2025 19:03:24
+IMG_6323_crop_028.jpg	總計
+IMG_6323_crop_014.jpg	滷肉飯
+IMG_6323_crop_030.jpg	00
+IMG_6323_crop_015.jpg	39.00
+IMG_6323_crop_032.jpg	已付
+IMG_6323_crop_026.jpg	小計
+IMG_6323_crop_004.jpg	26387
+IMG_6323_crop_045.jpg	P-01
+IMG_6323_crop_037.jpg	326 .00
+IMG_6323_crop_038.jpg	經理
+IMG_6323_crop_011.jpg	0.00
+IMG_6323_crop_006.jpg	結賬時間
+IMG_6323_crop_012.jpg	辣拌意麵
+IMG_6323_crop_017.jpg	49.00
+IMG_6323_crop_044.jpg	A12540-S01
+IMG_6323_crop_023.jpg	1
+IMG_6323_crop_029.jpg	326
+IMG_6323_crop_002.jpg	32
+IMG_6323_crop_000.jpg	阿城鵝肉
+IMG_6323_crop_007.jpg	26/10/2025 19:03:24
+20251124_072308_crop_006.jpg	Fo Tan,
+20251124_072308_crop_012.jpg	-CS0 #43- 17/11/2025 09:47:59
+20251124_072308_crop_004.jpg	(211)
+20251124_072308_crop_017.jpg	1 熱新鮮檸檬茶(早餐)
+20251124_072308_crop_020.jpg	堂食 Total
+20251124_072308_crop_010.jpg	2145 4123
+20251124_072308_crop_002.jpg	436
+20251124_072308_crop_027.jpg	0.00
+20251124_072308_crop_029.jpg	23.00
+20251124_072308_crop_028.jpg	賬戶支付:
+20251124_072308_crop_030.jpg	支付交易號:2025111699401001790201088737
+20251124_072308_crop_003.jpg	McDonald's Hong Kong
+20251124_072308_crop_031.jpg	商戶交易號:211445132
+20251124_072308_crop_000.jpg	1 號顯示屏/Screen
+20251124_072308_crop_005.jpg	Shatin Galleria,
+20251124_072136_crop_028.jpg	收據號碼
+20251124_072136_crop_009.jpg	買1送1
+20251124_072136_crop_030.jpg	日期
+20251124_072136_crop_026.jpg	八達通號碼
+20251124_072136_crop_027.jpg	101626321
+20251124_072136_crop_034.jpg	上一次於
+20251124_072136_crop_040.jpg	截至上單交易積分結餘
+20251124_072136_crop_002.jpg	李錦記辣椒豉油207ML
+20251124_072136_crop_036.jpg	現金增值
+20251124_072136_crop_024.jpg	機號
+test_samples_00001_crop_009.jpg	Date: 2025-09-26
+test_samples_00001_crop_031.jpg	$348.0
+test_samples_00001_crop_018.jpg	78.0
+test_samples_00001_crop_006.jpg	Cardno: 800012
+test_samples_00001_crop_017.jpg	滿]辣)
+test_samples_00001_crop_013.jpg	98.0
+test_samples_00001_crop_021.jpg	Sub Total
+test_samples_00001_crop_016.jpg	17:50 C05軟滑豆腐海鮮湯
+test_samples_00001_crop_011.jpg	18:38
+test_samples_00001_crop_022.jpg	316.0
+test_samples_00001_crop_028.jpg	Total
+test_samples_00001_crop_030.jpg	Cash
+test_samples_00001_crop_025.jpg	31.60
+test_samples_00001_crop_027.jpg	$348.0
+test_samples_00001_crop_005.jpg	5
+test_samples_00001_crop_029.jpg	$348.0
+test_samples_00001_crop_007.jpg	Staff: 經理
+test_samples_00001_crop_010.jpg	Time:
+test_samples_00001_crop_014.jpg	17:50 C04辣泡菜湯飯
+test_samples_00001_crop_000.jpg	韓餐韓國料理
+test_samples_00001_crop_015.jpg	78.0
+test_samples_00001_crop_020.jpg	62.0
+xcgh_crop_081.jpg	有機會蠃來回台北機票!
+xcgh_crop_031.jpg	171105904
+xcgh_crop_045.jpg	收銀員:9986
+xcgh_crop_115.jpg	2-10
+xcgh_crop_055.jpg	Original
+xcgh_crop_021.jpg	2 小計
+xcgh_crop_062.jpg	shopping
+xcgh_crop_023.jpg	Octopus
+xcgh_crop_114.jpg	Fong
+xcgh_crop_051.jpg	收據正本到本店
+xcgh_crop_012.jpg	Road,
+xcgh_crop_111.jpg	Trade Promotion Competition
+xcgh_crop_079.jpg	即買即抽
+xcgh_crop_004.jpg	7716
+xcgh_crop_078.jpg	買滿$100即可參加
+xcgh_crop_001.jpg	Kwai Fong
+xcgh_crop_056.jpg	receipt
+xcgh_crop_043.jpg	店鋪: 00103
+xcgh_crop_013.jpg	Kwai
+xcgh_crop_087.jpg	can
+xcgh_crop_027.jpg	八達通付款
+xcgh_crop_060.jpg	within 7days.
+xcgh_crop_006.jpg	G/F
+xcgh_crop_073.jpg	Limited
+xcgh_crop_097.jpg	Round-trip tickets to Taipei
+xcgh_crop_083.jpg	受條款及細則約束: https;//bit.ly/47YQR3W
+xcgh_crop_022.jpg	$48.00
+xcgh_crop_029.jpg	5C113A
+xcgh_crop_103.jpg	T&Cs apply:
+xcgh_crop_110.jpg	60797-802
+xcgh_crop_052.jpg	不適用於借用購物車按
+xcgh_crop_086.jpg	members
+xcgh_crop_085.jpg	13/11-31/12
+xcgh_crop_099.jpg	other prizes
+xcgh_crop_019.jpg	-$14.90
+xcgh_crop_088.jpg	earn chances
+xcgh_crop_063.jpg	trolley deposit
+xcgh_crop_068.jpg	for
+xcgh_crop_090.jpg	or
+xcgh_crop_096.jpg	win
+xcgh_crop_092.jpg	Get
+xcgh_crop_048.jpg	16:57:44
+xcgh_crop_049.jpg	如需退換或退款
+xcgh_crop_108.jpg	App
+xcgh_crop_069.jpg	details
+xcgh_crop_094.jpg	chance
+xcgh_crop_003.jpg	2428
+xcgh_crop_042.jpg	收銀員姓名: SC06
+xcgh_crop_113.jpg	60797-802
+xcgh_crop_105.jpg	即掃QR code
+xcgh_crop_046.jpg	單號#: 0260
+xcgh_crop_036.jpg	交易號碼
+xcgh_crop_034.jpg	餘額
+xcgh_crop_074.jpg	871033116574420251127
+xcgh_crop_095.jpg	to
+xcgh_crop_002.jpg	Tel
+xcgh_crop_061.jpg	Excludes
+xcgh_crop_077.jpg	於香港門市或PNS網購
+xcgh_crop_057.jpg	needed
+xcgh_crop_065.jpg	selected products
+xcgh_crop_010.jpg	Kwai
+xcgh_crop_024.jpg	$48.00
+xcgh_crop_038.jpg	日期/時間
+xcgh_crop_039.jpg	2025-11-27
+xcgh_crop_054.jpg	詳情請參閱網站
+xcgh_crop_037.jpg	5C113A25112716575402C1
+xcgh_crop_050.jpg	請於七天內帶同貨品及
+xcgh_crop_047.jpg	27/11/25
+xcgh_crop_044.jpg	收銀機:031
+xcgh_crop_028.jpg	機號
+xcgh_crop_053.jpg	金及指定產品
+xcgh_crop_018.jpg	$29.90
+xcgh_crop_059.jpg	exchange
+777_crop_029.jpg	$132.0
+777_crop_032.jpg	八達通
+777_crop_016.jpg	42.0
+777_crop_022.jpg	3.0
+777_crop_013.jpg	2025-10-19
+777_crop_007.jpg	18
+777_crop_033.jpg	$132.0
+777_crop_010.jpg	11267115
+777_crop_026.jpg	凍新鮮冷壓檸檬茶
+777_crop_031.jpg	$132.0
+777_crop_038.jpg	$.4
+777_crop_006.jpg	檯號:
+777_crop_014.jpg	時間: 14:43:28
+777_crop_003.jpg	Tel:
+777_crop_036.jpg	機號:5154CE
+777_crop_011.jpg	員工: 蔣玉春
+777_crop_035.jpg	171105904
+777_crop_008.jpg	人數:1
+777_crop_030.jpg	總計:
+777_crop_020.jpg	40.0
+777_crop_009.jpg	單號:
+20251124_072153_crop_034.jpg	2717
+20251124_072153_crop_011.jpg	巾
+20251124_072153_crop_016.jpg	16. 00
+20251124_072153_crop_039.jpg	上一次於 2025-11-08 現金增值
+20251124_072153_crop_008.jpg	4
+20251124_072153_crop_029.jpg	機號
+20251124_072153_crop_033.jpg	收據號碼
+20251124_072153_crop_009.jpg	80. 00
+20251124_072153_crop_022.jpg	15. 00
+20251124_072153_crop_026.jpg	49. 00
+20251124_072153_crop_002.jpg	話:24672342
+20251124_072153_crop_018.jpg	64. 00
+20251124_072153_crop_027.jpg	餘額
+20251124_072153_crop_020.jpg	0. 00
+20251124_072153_crop_037.jpg	時間
+20251124_072153_crop_030.jpg	515948
+20251124_072153_crop_035.jpg	日期
+20251124_072153_crop_028.jpg	22. 10
+20251124_072153_crop_019.jpg	抹零
+20251124_072153_crop_013.jpg	總金額
+20251124_072153_crop_005.jpg	00
+20251124_072153_crop_024.jpg	15. 00
+20251124_072153_crop_032.jpg	101626321
+222_crop_017.jpg	13.90
+222_crop_001.jpg	銷售單
+222_crop_029.jpg	-5.40
+222_crop_026.jpg	22.90
+222_crop_034.jpg	膠袋
+222_crop_021.jpg	減價
+222_crop_041.jpg	已付金額
+222_crop_039.jpg	淨金額
+222_crop_016.jpg	10511601
+222_crop_015.jpg	金額
+222_crop_025.jpg	1.00/件.
+222_crop_020.jpg	李錦記甜豉油207ML
+222_crop_033.jpg	1.00
+222_crop_018.jpg	1.00/件.
+222_crop_051.jpg	Terms and Conditions.
+222_crop_044.jpg	470.60
+222_crop_047.jpg	500.00
+222_crop_046.jpg	現金
+222_crop_014.jpg	數量
+222_crop_006.jpg	收銀員
+222_crop_024.jpg	22.90
+222_crop_002.jpg	店鋪
+222_crop_035.jpg	總計
+222_crop_050.jpg	All promotion offers are subject to the
+222_crop_031.jpg	1.00
+222_crop_023.jpg	10036501
+222_crop_042.jpg	500.00
+222_crop_011.jpg	S0B73012511001191
+222_crop_028.jpg	減價
+WhatsApp Image 2025-11-24 at 09.16.15_crop_036.jpg	$10.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_062.jpg	$133.50
+WhatsApp Image 2025-11-24 at 09.16.15_crop_032.jpg	155612
+WhatsApp Image 2025-11-24 at 09.16.15_crop_030.jpg	148826
+WhatsApp Image 2025-11-24 at 09.16.15_crop_084.jpg	N0)
+WhatsApp Image 2025-11-24 at 09.16.15_crop_009.jpg	650
+WhatsApp Image 2025-11-24 at 09.16.15_crop_059.jpg	A1
+WhatsApp Image 2025-11-24 at 09.16.15_crop_056.jpg	25 小計
+WhatsApp Image 2025-11-24 at 09.16.15_crop_025.jpg	$10.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_052.jpg	-海鮮味
+WhatsApp Image 2025-11-24 at 09.16.15_crop_053.jpg	$9. 50
+WhatsApp Image 2025-11-24 at 09.16.15_crop_004.jpg	Tel
+WhatsApp Image 2025-11-24 at 09.16.15_crop_039.jpg	單價:
+WhatsApp Image 2025-11-24 at 09.16.15_crop_064.jpg	$0.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_023.jpg	479452
+WhatsApp Image 2025-11-24 at 09.16.15_crop_019.jpg	Point Redemption
+WhatsApp Image 2025-11-24 at 09.16.15_crop_066.jpg	(Type)
+WhatsApp Image 2025-11-24 at 09.16.15_crop_082.jpg	Transaction amount):
+WhatsApp Image 2025-11-24 at 09.16.15_crop_037.jpg	$10.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_057.jpg	$146.50
+WhatsApp Image 2025-11-24 at 09.16.15_crop_026.jpg	140042
+WhatsApp Image 2025-11-24 at 09.16.15_crop_045.jpg	$9.50
+WhatsApp Image 2025-11-24 at 09.16.15_crop_088.jpg	Buy
+WhatsApp Image 2025-11-24 at 09.16.15_crop_044.jpg	日
+WhatsApp Image 2025-11-24 at 09.16.15_crop_043.jpg	$0.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_049.jpg	$9.50
+WhatsApp Image 2025-11-24 at 09.16.15_crop_073.jpg	852-92****44
+WhatsApp Image 2025-11-24 at 09.16.15_crop_042.jpg	$0.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_069.jpg	ID)
+WhatsApp Image 2025-11-24 at 09.16.15_crop_018.jpg	$21
+WhatsApp Image 2025-11-24 at 09.16.15_crop_055.jpg	-$7.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_060.jpg	$133.50
+WhatsApp Image 2025-11-24 at 09.16.15_crop_078.jpg	ID)
+WhatsApp Image 2025-11-24 at 09.16.15_crop_046.jpg	422627
+WhatsApp Image 2025-11-24 at 09.16.15_crop_034.jpg	$12.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_031.jpg	$10.00
+WhatsApp Image 2025-11-24 at 09.16.15_crop_050.jpg	110653
+WhatsApp Image 2025-11-24 at 09.16.15_crop_041.jpg	13
+WhatsApp Image 2025-11-24 at 09.16.15_crop_068.jpg	(Type)
+20251120_181911_crop_010.jpg	Tan
+20251120_181911_crop_052.jpg	Excludes shopping
+20251120_181911_crop_032.jpg	5C079A2511171749392C1B
+20251120_181911_crop_016.jpg	1 小計
+20251120_181911_crop_017.jpg	$8.40
+20251120_181911_crop_006.jpg	G/F
+20251120_181911_crop_007.jpg	Chun Yeung Shopping
+20251120_181911_crop_008.jpg	Ctr
+20251120_181911_crop_036.jpg	收銀員姓名: SC028
+20251120_181911_crop_054.jpg	See PNS.hk
+20251120_181911_crop_018.jpg	Octopus
+20251120_181911_crop_011.jpg	New Territories
+20251120_181911_crop_040.jpg	單號#:0202
+20251120_181911_crop_021.jpg	$0.00
+20251120_181911_crop_057.jpg	PARKnSHOP
+20251120_181911_crop_059.jpg	Limited
+20251120_181911_crop_014.jpg	近期鮮貨
+20251120_181911_crop_003.jpg	Tel
+20251120_181911_crop_015.jpg	-$9.60
+20251120_181911_crop_023.jpg	機號
+20251120_181911_crop_028.jpg	$8.40
+20251120_181911_crop_029.jpg	餘額
+20251120_181911_crop_058.jpg	(HK)
+20251120_181911_crop_050.jpg	receipt needed for refund/
+20251120_181911_crop_002.jpg	Chun Yeung Shopping Centre
+20251120_181911_crop_053.jpg	trolley deposit and selected products
+20251120_181911_crop_030.jpg	$388.60
+20251120_181911_crop_031.jpg	交易號碼
+20251120_181911_crop_026.jpg	70633294
+444_crop_034.jpg	27/10/25
+444_crop_057.jpg	Curious
+444_crop_023.jpg	171105904
+444_crop_012.jpg	034186 士多啤梨250克 (中
+444_crop_001.jpg	PARKnSHOP
+444_crop_013.jpg	$35.00
+444_crop_027.jpg	$261.10
+444_crop_039.jpg	Original
+444_crop_015.jpg	$74.00
+444_crop_074.jpg	matches your unique personality.
+444_crop_065.jpg	this
+444_crop_050.jpg	871030215481620251027
+444_crop_064.jpg	Take
+444_crop_004.jpg	2428 7716
+444_crop_073.jpg	best
+444_crop_054.jpg	"FBTI" Food Personal
+444_crop_062.jpg	be
+444_crop_030.jpg	Hua
+444_crop_017.jpg	$74.00
+444_crop_049.jpg	Limited
+444_crop_011.jpg	$39.00
+444_crop_055.jpg	ty
+444_crop_044.jpg	deposit and selected products.
+444_crop_019.jpg	$0.00
+444_crop_014.jpg	2
+444_crop_040.jpg	receipt needed for refund/
+444_crop_066.jpg	fun
+444_crop_042.jpg	Excludes shopping
+444_crop_082.jpg	Scan
+test_samples_00011_crop_025.jpg	ThankYou
+test_samples_00011_crop_013.jpg	$18.00
+test_samples_00011_crop_006.jpg	N.T.
+test_samples_00011_crop_009.jpg	堂食
+test_samples_00011_crop_014.jpg	$18.00
+test_samples_00011_crop_011.jpg	14:23:21
+test_samples_00011_crop_010.jpg	日期: 2025/10/31
+test_samples_00011_crop_017.jpg	$18.00
+test_samples_00011_crop_001.jpg	Tsing Yi
+test_samples_00011_crop_008.jpg	000-0134
+test_samples_00011_crop_012.jpg	凍美式咖啡(16oz)
+test_samples_00011_crop_007.jpg	帳單:
+test_samples_00011_crop_005.jpg	Tsing Yi Island,
+test_samples_00011_crop_004.jpg	20 Tsing Yi Road,
+test_samples_00011_crop_016.jpg	(手動)
+test_samples_00011_crop_028.jpg	LAM F T
+test_samples_00011_crop_015.jpg	八達通
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_027.jpg	182.00
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_024.jpg	3.00
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_017.jpg	58.00
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_026.jpg	Subtotal:
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_030.jpg	THANK YOU!
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_020.jpg	5.00
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_007.jpg	2A
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_006.jpg	1
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_000.jpg	Bangkok B.B.Q.(Tsing Yi)
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_003.jpg	Cashier: Admin
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_010.jpg	菠蘿雞絲炒飯
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_009.jpg	58.00
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_005.jpg	GST:
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_018.jpg	海南雞飯
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_002.jpg	Dine In
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_012.jpg	58.00
+f01a477f-6a6f-4b11-a2c6-98bd1a2be902_crop_029.jpg	Times of Printing:1
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_018.jpg	x
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_033.jpg	2個)
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_031.jpg	(@1, 800
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_006.jpg	Tax Free
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_023.jpg	(@998
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_002.jpg	029-304-5180
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_012.jpg	x
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_060.jpg	price
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_053.jpg	This
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_011.jpg	380
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_017.jpg	(@998
+5AB2A9F8-FBE3-4A82-BC21-E6C98029DE7E_crop_001.jpg	TEL
+test_samples_00002_crop_004.jpg	at: 2025-10-17 17:27:31
+test_samples_00002_crop_025.jpg	250.00
+test_samples_00002_crop_024.jpg	Subtotal:
+test_samples_00002_crop_023.jpg	24.00
+test_samples_00002_crop_020.jpg	香葉肉碎配白飯
+test_samples_00002_crop_031.jpg	TBL:
+test_samples_00002_crop_029.jpg	Cashier:
+test_samples_00002_crop_009.jpg	58.00
+test_samples_00002_crop_000.jpg	Bangkok B.B.Q.(Tsing Yi)
+test_samples_00002_crop_014.jpg	110.00
+test_samples_00002_crop_002.jpg	Dine In
+test_samples_00002_crop_027.jpg	Times of Printing:
+test_samples_00002_crop_019.jpg	58.00
+test_samples_00002_crop_021.jpg	3
+test_samples_00002_crop_022.jpg	drink +8
+test_samples_00002_crop_001.jpg	[Prepayment]
+test_samples_00002_crop_010.jpg	泰式炒麵
+test_samples_00002_crop_003.jpg	Admin
+20251124_071819_crop_009.jpg	48.0
+20251124_071819_crop_021.jpg	八達通號碼:
+20251124_071819_crop_019.jpg	八達通餘額:
+20251124_071819_crop_030.jpg	$282.0
+20251124_071819_crop_018.jpg	45.0
+20251124_071819_crop_013.jpg	-3.0
+20251124_071819_crop_012.jpg	快活關愛長者咭 -3.0
+20251124_071819_crop_015.jpg	45.0
+20251124_071819_crop_017.jpg	101626321
+20251124_071819_crop_022.jpg	101626321
+20251124_071819_crop_026.jpg	咭編號
+20251124_071819_crop_028.jpg	快活關愛長者咭
+20251124_071819_crop_029.jpg	截至昨天優惠餘額:
+20251124_071819_crop_016.jpg	八達通
+20251124_071819_crop_020.jpg	104.4
+20251124_071819_crop_002.jpg	請留意取餐號碼:1847
+20251124_071819_crop_027.jpg	8600472911
+20251124_071819_crop_003.jpg	#230-麗港城商場
+20251124_071819_crop_024.jpg	40A8E5
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_012.jpg	98801950 植物素燒牛肉配
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_024.jpg	-205.9
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_006.jpg	19.0
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_002.jpg	Description
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_005.jpg	98800007 5粒瑞典肉丸伴?
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_017.jpg	18.0
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_008.jpg	49.9
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_027.jpg	04/10/25
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_022.jpg	205.9
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_011.jpg	73.0
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_025.jpg	379534******489
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_013.jpg	46.0
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_001.jpg	19:10
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_020.jpg	Total
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_004.jpg	Items:
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_026.jpg	Approval Code: 839798
+5f66bc6c-f5af-4321-b24d-4340f23811dd_crop_023.jpg	AE
+20251124_072238_crop_005.jpg	新界將軍澳康城路1號第4層424-425號舖
+20251124_072238_crop_021.jpg	茶餐A) 迷你雙送湯米線餐
+20251124_072238_crop_018.jpg	16:26:18
+20251124_072238_crop_029.jpg	罐裝無糖可樂
+20251124_072238_crop_012.jpg	賬單:
+20251124_072238_crop_031.jpg	總金額
+20251124_072238_crop_023.jpg	迷你兩送米線
+20251124_072238_crop_017.jpg	結帳時間:2025-11-21
+20251124_072238_crop_022.jpg	$22.00
+20251124_072238_crop_000.jpg	譚
+20251124_072238_crop_001.jpg	雲 南 米 線
+20251124_072238_crop_003.jpg	譚仔雲南米線
+20251124_072238_crop_024.jpg	$0.00
+20251124_072238_crop_006.jpg	Tel:22781183
+20251124_072238_crop_007.jpg	收據
+20251124_072238_crop_014.jpg	堂食
+20251124_072238_crop_016.jpg	15:59:32
+20251124_072238_crop_026.jpg	$8.00
+20251124_072238_crop_013.jpg	0436
+WhatsApp Image 2025-10-24 at 17.52.57_crop_003.jpg	Admin
+WhatsApp Image 2025-10-24 at 17.52.57_crop_015.jpg	58.00
+WhatsApp Image 2025-10-24 at 17.52.57_crop_023.jpg	小計:
+WhatsApp Image 2025-10-24 at 17.52.57_crop_030.jpg	打印時間:
+WhatsApp Image 2025-10-24 at 17.52.57_crop_011.jpg	2
+WhatsApp Image 2025-10-24 at 17.52.57_crop_008.jpg	00909/1
+WhatsApp Image 2025-10-24 at 17.52.57_crop_034.jpg	打印次數:
+WhatsApp Image 2025-10-24 at 17.52.57_crop_010.jpg	人數:
+WhatsApp Image 2025-10-24 at 17.52.57_crop_031.jpg	3
+WhatsApp Image 2025-10-24 at 17.52.57_crop_029.jpg	PAID]
+WhatsApp Image 2025-10-24 at 17.52.57_crop_007.jpg	單號:
+WhatsApp Image 2025-10-24 at 17.52.57_crop_006.jpg	12
+WhatsApp Image 2025-10-24 at 17.52.57_crop_032.jpg	17:52:15
+WhatsApp Image 2025-10-24 at 17.52.57_crop_000.jpg	伊勢堂
+WhatsApp Image 2025-10-24 at 17.52.57_crop_002.jpg	收銀員:
+WhatsApp Image 2025-10-24 at 17.52.57_crop_001.jpg	Dine In
+WhatsApp Image 2025-10-24 at 17.52.57_crop_033.jpg	2025-10-24
+test_samples_00009_crop_004.jpg	Tel
+test_samples_00009_crop_014.jpg	Tsang
+test_samples_00009_crop_025.jpg	$21.00
+test_samples_00009_crop_038.jpg	00
+test_samples_00009_crop_020.jpg	441
+test_samples_00009_crop_040.jpg	$346.90
+test_samples_00009_crop_009.jpg	Commercial
+test_samples_00009_crop_013.jpg	Garden,
+test_samples_00009_crop_016.jpg	N.T.
+test_samples_00009_crop_012.jpg	Greenfield
+test_samples_00009_crop_032.jpg	$0.00
+test_samples_00009_crop_003.jpg	Gaden
+test_samples_00009_crop_035.jpg	102328199
+test_samples_00009_crop_005.jpg	2495
+test_samples_00009_crop_000.jpg	百佳
+test_samples_00009_crop_002.jpg	Greenfield
+test_samples_00009_crop_008.jpg	G/F,
+20251124_071904_crop_020.jpg	www.moneyback.com.hk
+20251124_071904_crop_051.jpg	H07560
+20251124_071904_crop_007.jpg	G02,
+20251124_071904_crop_018.jpg	13
+20251124_071904_crop_041.jpg	商戶編號(MID):
+20251124_071904_crop_004.jpg	Centre
+20251124_071904_crop_011.jpg	New Terr
+20251124_071904_crop_044.jpg	ID):
+20251124_071904_crop_045.jpg	70002220
+20251124_071904_crop_002.jpg	Chun Yeung
+20251124_071904_crop_013.jpg	卡號碼:
+20251124_071904_crop_016.jpg	939
+20251124_071904_crop_061.jpg	Shopp
+20251124_071904_crop_003.jpg	ing
+20251124_071904_crop_047.jpg	(Trace No)
+20251124_071904_crop_062.jpg	Shop
+20251124_071904_crop_027.jpg	$34. 90
+20251124_071904_crop_059.jpg	2025111299401001230200236957
+20251124_071904_crop_033.jpg	$0. 00
+20251124_071904_crop_012.jpg	tories
+20251124_071904_crop_008.jpg	G/F,
+20251124_071904_crop_028.jpg	5 小計
+20251124_071904_crop_029.jpg	$68. 90
+20251124_071904_crop_040.jpg	B52-91****61
+20251124_071904_crop_049.jpg	(Approval
+20251124_071904_crop_055.jpg	(Transact
+20251124_071904_crop_035.jpg	交易類別(Type):
+20251124_071904_crop_054.jpg	45C248207188
+20251124_071904_crop_009.jpg	Chun Yeung Shopping Ctr
+20251124_071904_crop_036.jpg	PAYMENT
+20251124_071904_crop_031.jpg	$68. 90
+20251124_071904_crop_048.jpg	362988
+20251124_071904_crop_050.jpg	Code):
+test_samples_00012_crop_008.jpg	Tsing Yi,
+test_samples_00012_crop_010.jpg	Hong Kong
+test_samples_00012_crop_036.jpg	79
+test_samples_00012_crop_035.jpg	HKD
+test_samples_00012_crop_041.jpg	Octopus
+test_samples_00012_crop_025.jpg	2000203633881
+test_samples_00012_crop_028.jpg	2000203135859
+test_samples_00012_crop_022.jpg	@29.00
+test_samples_00012_crop_033.jpg	3
+test_samples_00012_crop_012.jpg	2495 6271
+test_samples_00012_crop_031.jpg	HKD 79.00
+test_samples_00012_crop_034.jpg	Subtotal
+test_samples_00012_crop_019.jpg	[14:53]
+test_samples_00012_crop_007.jpg	No.33 Tsing King Road,
+test_samples_00012_crop_009.jpg	N.T.
+test_samples_00012_crop_026.jpg	@29.00
+test_samples_00012_crop_017.jpg	<0010>
+test_samples_00012_crop_020.jpg	Short socks
+test_samples_00012_crop_039.jpg	HKD 79.00
+test_samples_00012_crop_011.jpg	Tel:
+test_samples_00012_crop_040.jpg	Payment Method
+test_samples_00012_crop_042.jpg	HKD 79.00
+test_samples_00012_crop_014.jpg	Receipt
+test_samples_00012_crop_037.jpg	00
+test_samples_00012_crop_003.jpg	WWW.UNIQLO.COM
+20251129_154820_crop_011.jpg	9915005601***
+20251129_154820_crop_045.jpg	2025-11-24 17:13:50
+20251129_154820_crop_001.jpg	PARKnSHOP
+20251129_154820_crop_048.jpg	店鋪:00627
+20251129_154820_crop_023.jpg	$28.60
+20251129_154820_crop_032.jpg	$0.00
+20251129_154820_crop_029.jpg	Octopus
+20251129_154820_crop_005.jpg	G02,
+20251129_154820_crop_008.jpg	Chun Yeung Shopping Ctr
+20251129_154820_crop_044.jpg	日期/時間
+20251129_154820_crop_028.jpg	$16.80
+20251129_154820_crop_021.jpg	$14.30 數量:
+20251129_154820_crop_010.jpg	卡號碼:
+20251129_154820_crop_006.jpg	G02,
+20251129_154820_crop_034.jpg	$0.00
+20251129_154820_crop_024.jpg	Buy
+20251129_154820_crop_002.jpg	Chun Yeung Shopping Centre
+20251129_154820_crop_022.jpg	2
+20251129_154820_crop_037.jpg	101626321
+20251129_154820_crop_051.jpg	單號#:0170
+20251129_154820_crop_004.jpg	2396 0260
+20251129_154820_crop_052.jpg	24/11/25
+20251129_154820_crop_041.jpg	$149 .60
+20251129_154820_crop_047.jpg	收銀員姓名: $c028
+20251129_154820_crop_026.jpg	-$11.80
+20251129_154820_crop_040.jpg	餘額
+20251129_154820_crop_030.jpg	$16.80
+20251129_154820_crop_013.jpg	971
+20251129_154820_crop_049.jpg	收銀機:028
+20251129_154820_crop_015.jpg	3
+20251129_154820_crop_003.jpg	Tel
+20251129_154820_crop_053.jpg	17:13:12
+20251129_154820_crop_007.jpg	Chun Yeung Shopping Ctr
+20251129_154820_crop_043.jpg	5(079/2511241713463032
+20251129_154820_crop_012.jpg	易賞錢積分結餘:
+20251129_154820_crop_054.jpg	Shop
+20251124_071852_crop_024.jpg	1 和風紫菜調味粉
+20251124_071852_crop_039.jpg	多謝惠顧,塑膠購物袋收費恕不設退款.
+20251124_071852_crop_034.jpg	0.00
+20251124_071852_crop_019.jpg	-23.50
+20251124_071852_crop_025.jpg	1 餐大可樂
+20251124_071852_crop_038.jpg	商戶交易號:755754595
+20251124_071852_crop_004.jpg	(211)
+20251124_071852_crop_008.jpg	Tel
+20251124_071852_crop_037.jpg	支付交易號:2025110899401001370299308228
+20251124_071852_crop_003.jpg	McDonald's Hong Kong
+20251124_071852_crop_000.jpg	1 號顯示屏/Screen
+20251124_071852_crop_017.jpg	57.00
+20251124_071852_crop_002.jpg	590
+20251124_071852_crop_028.jpg	外賣 Total
+20251124_071852_crop_021.jpg	泰式辣醬(2包)
+20251124_071852_crop_035.jpg	賬戶支付:
+20251124_071852_crop_009.jpg	2145 4123
+20251124_071852_crop_012.jpg	15:06:50
+20251124_071852_crop_027.jpg	33.50
+20251124_071852_crop_031.jpg	33.50
+20251124_071852_crop_023.jpg	配大薯條
+20251120_184644_crop_043.jpg	622248095537
+20251120_184644_crop_024.jpg	yuu ID
+20251120_184644_crop_022.jpg	總計
+20251120_184644_crop_007.jpg	101-081-000135
+20251120_184644_crop_039.jpg	2025111099401001450299756940
+20251120_184644_crop_027.jpg	3550
+20251120_184644_crop_044.jpg	交易日期時間
+20251120_184644_crop_051.jpg	$50 減 $3優惠碼
+20251120_184644_crop_037.jpg	434417
+20251120_184644_crop_020.jpg	HK$0.00
+20251120_184644_crop_001.jpg	沙田商業中心
+20251120_184644_crop_032.jpg	終端編號
+20251120_184644_crop_002.jpg	清真友善
+20251120_184644_crop_034.jpg	商戶編號
+20251120_184644_crop_026.jpg	截至上單交易積分結餘
+20251120_184644_crop_036.jpg	流水號
+20251120_184644_crop_038.jpg	交易單號
+20251120_184644_crop_019.jpg	折扣優惠
+20251120_184644_crop_005.jpg	帳單
+20251120_184644_crop_046.jpg	交易金額
+20251120_184644_crop_050.jpg	即可獲惠顧滿
+20251120_184644_crop_047.jpg	HK$ 48.5
+20251120_184644_crop_023.jpg	HK$48.50
+20251120_184644_crop_021.jpg	外賣
+20251120_184644_crop_045.jpg	2025-11-11 11:25:39
+20251120_184644_crop_033.jpg	11101211
+IMG_6339_crop_005.jpg	TID:00023750
+IMG_6339_crop_018.jpg	251122059400
+IMG_6339_crop_001.jpg	BAR AND RESTAURANT
+IMG_6339_crop_009.jpg	APP label:
+IMG_6339_crop_010.jpg	Mastercard
+IMG_6339_crop_020.jpg	B95AEEFE7FC51D58
+IMG_6339_crop_015.jpg	Platform TID:
+IMG_6339_crop_029.jpg	NO SIGNATURE REQUIRED
+IMG_6339_crop_004.jpg	MID:852124012203075
+IMG_6339_crop_022.jpg	ACode:F11385
+IMG_6339_crop_007.jpg	Card No:
+IMG_6339_crop_000.jpg	君企有限公司
+IMG_6339_crop_016.jpg	00023750
+IMG_6339_crop_014.jpg	852124012203075
+IMG_6339_crop_012.jpg	A0000000041010
+IMG_6339_crop_006.jpg	Mastercard 收款
+IMG_6339_crop_028.jpg	HKD 909.00
+IMG_6339_crop_011.jpg	AID:
+IMG_6339_crop_017.jpg	Ref:
+IMG_6339_crop_019.jpg	TC:
+IMG_6339_crop_034.jpg	service and assumes no responsibility for
+IMG_6339_crop_025.jpg	Txntime:
+IMG_6339_crop_013.jpg	Platform MID:
+20251129_154838_crop_027.jpg	-24現金增值
+20251129_154838_crop_014.jpg	付款方式:
+20251129_154838_crop_005.jpg	( 外賣)
+20251129_154838_crop_025.jpg	2025-11-25 16:44:11
+20251129_154838_crop_022.jpg	5B131D25112516441140C9
+20251129_154838_crop_012.jpg	總金額
+20251129_154838_crop_018.jpg	101626321
+20251129_154838_crop_039.jpg	Maxim's
+20251129_154838_crop_044.jpg	16:44
+20251129_154838_crop_030.jpg	ID:
+20251129_154838_crop_040.jpg	Caterers
+20251129_154838_crop_033.jpg	3925
+20251129_154838_crop_010.jpg	$12.0
+20251129_154838_crop_035.jpg	結餘
+20251129_154838_crop_026.jpg	日期/時間
+20251129_154838_crop_042.jpg	0101370370
+test_samples_00003_crop_026.jpg	$35.0
+test_samples_00003_crop_052.jpg	001-2025/10/20 12:37:58
+test_samples_00003_crop_030.jpg	$0.0
+test_samples_00003_crop_024.jpg	$14.0
+test_samples_00003_crop_048.jpg	No 10% Service Charge
+test_samples_00003_crop_029.jpg	不用加配
+test_samples_00003_crop_018.jpg	$30.
+test_samples_00003_crop_020.jpg	$12.0
+test_samples_00003_crop_047.jpg	0
+test_samples_00003_crop_002.jpg	Saizeriya
+test_samples_00003_crop_051.jpg	Please pay at Cashier
+test_samples_00003_crop_012.jpg	$0.0
+test_samples_00003_crop_038.jpg	$2.0
+test_samples_00003_crop_014.jpg	$20.0
+test_samples_00003_crop_036.jpg	193925401
+test_samples_00003_crop_044.jpg	2025-10-20 12:37:57
+test_samples_00003_crop_028.jpg	$15.0
+test_samples_00003_crop_034.jpg	$196.0
+test_samples_00003_crop_040.jpg	5B145D
+test_samples_00003_crop_031.jpg	總金額
+test_samples_00003_crop_053.jpg	PDA
+test_samples_00003_crop_009.jpg	7858
+test_samples_00003_crop_023.jpg	蘑姑忌廉湯
+test_samples_00019_crop_060.jpg	001-2025-11-26 15:13:54 何麗儀
+test_samples_00019_crop_046.jpg	曾員號碼:
+test_samples_00019_crop_015.jpg	$14.0
+test_samples_00019_crop_044.jpg	會員姓名:
+test_samples_00019_crop_017.jpg	$15.0
+test_samples_00019_crop_027.jpg	$16.0
+test_samples_00019_crop_006.jpg	000-21785
+test_samples_00019_crop_018.jpg	$12.0
+test_samples_00019_crop_034.jpg	總金額
+test_samples_00019_crop_013.jpg	$26.0
+test_samples_00019_crop_025.jpg	$29.0
+test_samples_00019_crop_023.jpg	$22.0
+test_samples_00019_crop_026.jpg	博多甜王士多啤梨豆乳
+test_samples_00019_crop_051.jpg	47
+test_samples_00019_crop_009.jpg	$28.0
+test_samples_00019_crop_031.jpg	$239
+test_samples_00019_crop_011.jpg	$13.0
+test_samples_00019_crop_024.jpg	大阪章魚燒
+test_samples_00019_crop_037.jpg	$40.0
+test_samples_00019_crop_012.jpg	炸蝦卷
+test_samples_00019_crop_036.jpg	使用$40賞分(新)
+test_samples_00019_crop_054.jpg	2026-04-30
+test_samples_00019_crop_042.jpg	Thank You, Please come again.
+test_samples_00019_crop_048.jpg	會員級別:
+test_samples_00019_crop_045.jpg	Mr chan
+test_samples_00019_crop_004.jpg	人數:
+test_samples_00019_crop_033.jpg	$23.
+test_samples_00019_crop_001.jpg	Genki Sushi (Maritime Square Kousoku)
+IMG_6324_crop_005.jpg	淘大商場
+IMG_6324_crop_027.jpg	餘額
+IMG_6324_crop_034.jpg	電話: 28860565
+IMG_6324_crop_022.jpg	33.00
+IMG_6324_crop_026.jpg	53134D
+IMG_6324_crop_001.jpg	茗茶
+IMG_6324_crop_017.jpg	2
+IMG_6324_crop_021.jpg	八達通付款
+IMG_6324_crop_014.jpg	$0.00
+IMG_6324_crop_009.jpg	01號機
+IMG_6324_crop_006.jpg	外帶收據
+IMG_6324_crop_004.jpg	2025-10-14 18:12:36
+IMG_6324_crop_007.jpg	單號
+IMG_6324_crop_030.jpg	2025-10-14 18:12:35
+IMG_6324_crop_020.jpg	$33.00
+IMG_6324_crop_013.jpg	7分甜
+IMG_6324_crop_018.jpg	$33.00
+IMG_6324_crop_011.jpg	$33.00
+IMG_6324_crop_019.jpg	八達通
+IMG_6324_crop_023.jpg	八達通號碼
+IMG_6324_crop_036.jpg	多謝惠顧,塑膠購物袋收費恕不設退款.
+IMG_6324_crop_031.jpg	上一次於 2025-10-03 自動增值
+20251124_072258_crop_028.jpg	$39.00
+20251124_072258_crop_017.jpg	早)C牛油厚多士
+20251124_072258_crop_012.jpg	0098
+20251124_072258_crop_026.jpg	$39.00
+20251120_181828_crop_008.jpg	樓205號舖
+20251120_181828_crop_009.jpg	Tel:26909998
+20251120_181828_crop_022.jpg	$16.00
+20251120_181828_crop_010.jpg	收據
+20251120_181828_crop_031.jpg	包裝費
+20251120_181828_crop_015.jpg	落單時間:2025-11-13 15:01:42
+20251120_181828_crop_017.jpg	過橋米線
+20251120_181828_crop_014.jpg	外賣
+20251120_181828_crop_006.jpg	S118-火炭星凱堤岸
+20251120_181828_crop_029.jpg	小計金額
+20251120_181828_crop_033.jpg	長者優惠送青瓜飲品
+20251120_181828_crop_030.jpg	$94.00
+20251120_181828_crop_020.jpg	$1.00
+20251120_181828_crop_024.jpg	$0.00
+20251120_181828_crop_013.jpg	0198
+20251120_181828_crop_004.jpg	SAMGOR
+20251120_181828_crop_021.jpg	手拍青瓜
+20251120_181828_crop_025.jpg	凍檸檬茶
+20251120_181828_crop_032.jpg	$3.00
+20251120_181828_crop_026.jpg	$18.00
+20251120_181828_crop_034.jpg	-$34.00
+20251120_181828_crop_028.jpg	$0.00
+20251130_064501_crop_006.jpg	S118-火炭星凱堤岸
+20251130_064501_crop_017.jpg	E.迷你雙送米線餐
+20251130_064501_crop_001.jpg	三哥
+20251130_064501_crop_036.jpg	$44.00
+20251130_064501_crop_019.jpg	迷你雙送米線
+20251130_064501_crop_020.jpg	$0.00
+20251130_064501_crop_028.jpg	$3.00
+20251130_064501_crop_004.jpg	SAMGOR
+20251130_064501_crop_009.jpg	Tel:26909998
+20251130_064501_crop_003.jpg	TAMJAI
+20251130_064501_crop_033.jpg	$44.00
+20251130_064501_crop_015.jpg	落單時間:2025-11-29 14:51:57
+20251130_064501_crop_010.jpg	檯號: 2E
+20251130_064501_crop_029.jpg	:少甜
+20251130_064501_crop_014.jpg	堂食
+20251130_064501_crop_035.jpg	八達通
+20251130_064501_crop_016.jpg	結帳時間:2025-11-29 15:22:43
+20251130_064501_crop_030.jpg	$10.00
+20251130_064501_crop_023.jpg	:米線
+20251130_064501_crop_011.jpg	人數:1
+20251130_064501_crop_013.jpg	000-0145
+20251130_064501_crop_027.jpg	凍檸檬茶
+20251130_064501_crop_034.jpg	以四捨五入計算至整數
+20251130_064501_crop_025.jpg	$1.00
+20251130_064501_crop_005.jpg	譚仔三哥米線
+20251130_064501_crop_018.jpg	$22.00
+20251130_064501_crop_026.jpg	:走芽菜
+20251130_064501_crop_032.jpg	總金額
+eadff241-985a-4eb0-ab95-7480053fc724_crop_052.jpg	SUPERNORMAL
+eadff241-985a-4eb0-ab95-7480053fc724_crop_038.jpg	菠蘿荔枝鳥龍茶
+eadff241-985a-4eb0-ab95-7480053fc724_crop_022.jpg	柳配紅酒汁
+eadff241-985a-4eb0-ab95-7480053fc724_crop_015.jpg	法式牛仔批 (餐)
+eadff241-985a-4eb0-ab95-7480053fc724_crop_065.jpg	Priscilla
+eadff241-985a-4eb0-ab95-7480053fc724_crop_003.jpg	Lam
+eadff241-985a-4eb0-ab95-7480053fc724_crop_040.jpg	小計
+eadff241-985a-4eb0-ab95-7480053fc724_crop_025.jpg	0.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_010.jpg	1
+eadff241-985a-4eb0-ab95-7480053fc724_crop_011.jpg	白酒忌廉煮青口
+eadff241-985a-4eb0-ab95-7480053fc724_crop_028.jpg	鮮燉飯
+eadff241-985a-4eb0-ab95-7480053fc724_crop_004.jpg	21/09/2025 18:35:34
+eadff241-985a-4eb0-ab95-7480053fc724_crop_048.jpg	21/09/2025 19:39:23
+eadff241-985a-4eb0-ab95-7480053fc724_crop_033.jpg	2
+eadff241-985a-4eb0-ab95-7480053fc724_crop_047.jpg	Lam
+eadff241-985a-4eb0-ab95-7480053fc724_crop_051.jpg	NORMAL
+eadff241-985a-4eb0-ab95-7480053fc724_crop_056.jpg	TEL:
+eadff241-985a-4eb0-ab95-7480053fc724_crop_043.jpg	加一服務費
+eadff241-985a-4eb0-ab95-7480053fc724_crop_021.jpg	538.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_062.jpg	開檯時間
+eadff241-985a-4eb0-ab95-7480053fc724_crop_063.jpg	餐 )
+eadff241-985a-4eb0-ab95-7480053fc724_crop_030.jpg	1
+eadff241-985a-4eb0-ab95-7480053fc724_crop_041.jpg	115
+eadff241-985a-4eb0-ab95-7480053fc724_crop_045.jpg	272.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_032.jpg	40.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_039.jpg	1,156.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_008.jpg	牛油餐包(餐)
+eadff241-985a-4eb0-ab95-7480053fc724_crop_042.jpg	60
+eadff241-985a-4eb0-ab95-7480053fc724_crop_059.jpg	392820
+eadff241-985a-4eb0-ab95-7480053fc724_crop_064.jpg	1,
+eadff241-985a-4eb0-ab95-7480053fc724_crop_037.jpg	20.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_026.jpg	餐
+eadff241-985a-4eb0-ab95-7480053fc724_crop_024.jpg	medium
+eadff241-985a-4eb0-ab95-7480053fc724_crop_044.jpg	總計
+eadff241-985a-4eb0-ab95-7480053fc724_crop_050.jpg	SUPER
+eadff241-985a-4eb0-ab95-7480053fc724_crop_006.jpg	(餐)湯
+eadff241-985a-4eb0-ab95-7480053fc724_crop_034.jpg	紅石榴香橙梳打
+eadff241-985a-4eb0-ab95-7480053fc724_crop_007.jpg	0.00
+eadff241-985a-4eb0-ab95-7480053fc724_crop_016.jpg	0.00
+test_samples_00014_crop_009.jpg	Operator:
+test_samples_00014_crop_001.jpg	Metroplaza
+test_samples_00014_crop_014.jpg	48.0
+test_samples_00014_crop_028.jpg	Total
+test_samples_00014_crop_006.jpg	51 / 3
+test_samples_00014_crop_007.jpg	Ref 54886
+test_samples_00014_crop_013.jpg	301603930 ST
+test_samples_00014_crop_017.jpg	301604595 ST
+test_samples_00014_crop_003.jpg	Shop 01
+test_samples_00014_crop_035.jpg	2025112499401001440203041281
+test_samples_00014_crop_018.jpg	130,0
+test_samples_00014_crop_037.jpg	OTNo
+test_samples_00014_crop_004.jpg	Kwai
+test_samples_00014_crop_034.jpg	Txnc
+test_samples_00014_crop_027.jpg	Tota1
+test_samples_00014_crop_012.jpg	301603930 ST
+test_samples_00014_crop_005.jpg	Shop
+test_samples_00014_crop_039.jpg	Items sold are non-refundable
+test_samples_00014_crop_031.jpg	Alipay
+test_samples_00014_crop_016.jpg	301604595 $[
+test_samples_00014_crop_019.jpg	130.0
+test_samples_00014_crop_033.jpg	263.0
+20251130_064615_crop_031.jpg	日期/時閫
+20251130_064615_crop_018.jpg	$104.0
+20251130_064615_crop_013.jpg	4
+20251130_064615_crop_028.jpg	5B131D251129154501479A
+20251130_064615_crop_012.jpg	$39.0
+20251130_064615_crop_015.jpg	$12.0
+20251130_064615_crop_044.jpg	0101371684 2025/11/29 15:45
+20251130_064615_crop_024.jpg	101626321
+20251130_064615_crop_032.jpg	2025-11-29 15:45:02
+20251130_064615_crop_007.jpg	$40.0
+20251130_064615_crop_027.jpg	交易號碼
+20251130_064615_crop_005.jpg	2
+20251130_064615_crop_020.jpg	會員認證(*)
+20251130_064615_crop_010.jpg	$13.0
+20251130_064615_crop_037.jpg	3976
+20251130_064615_crop_017.jpg	總金額
+20251124_071731_crop_014.jpg	$17.0
+20251124_071731_crop_034.jpg	yuu
+20251124_071731_crop_017.jpg	$113.0
+test_samples_00013_crop_033.jpg	商戶號
+test_samples_00013_crop_020.jpg	總金額
+test_samples_00013_crop_027.jpg	0. 00
+test_samples_00013_crop_022.jpg	促銷優惠總金額
+test_samples_00013_crop_030.jpg	251029144519
+test_samples_00013_crop_016.jpg	16. 00
+test_samples_00013_crop_017.jpg	萬寧品牌/指定獨家品牌產品9
+test_samples_00013_crop_006.jpg	精選產品買1送1
+test_samples_00013_crop_007.jpg	-99. 00
+test_samples_00013_crop_018.jpg	折
+test_samples_00013_crop_034.jpg	852000059120002
+test_samples_00013_crop_015.jpg	2
+test_samples_00013_crop_000.jpg	萬寧 mannings
+test_samples_00013_crop_021.jpg	233. 00
+test_samples_00013_crop_019.jpg	-3. 50
+test_samples_00013_crop_023.jpg	-102. 50
+test_samples_00013_crop_037.jpg	授權碼
+IMG_6334_crop_031.jpg	5.00
+IMG_6334_crop_022.jpg	58.00
+IMG_6334_crop_038.jpg	減$30
+IMG_6334_crop_045.jpg	落單時間 21/11/2025
+IMG_6334_crop_007.jpg	Steven Siu
+IMG_6334_crop_016.jpg	[優惠商品優惠39%優惠後
+IMG_6334_crop_009.jpg	訂單備註
+IMG_6334_crop_012.jpg	原價($)
+IMG_6334_crop_027.jpg	203.00
+IMG_6334_crop_001.jpg	阿城鵝肉·淘大店 (台灣米芝蓮
+IMG_6334_crop_000.jpg	keeta
+IMG_6334_crop_019.jpg	鵝油飯
+IMG_6334_crop_011.jpg	數量 商品
+IMG_6334_crop_041.jpg	19:05
+IMG_6334_crop_029.jpg	12.00
+IMG_6334_crop_014.jpg	鵝肉雙拼飯 配 145.00
+IMG_6334_crop_046.jpg	謝謝惠顧
+IMG_6334_crop_006.jpg	19:15
+IMG_6334_crop_010.jpg	需要餐具;缺貨時請與我聯絡
+IMG_6334_crop_024.jpg	餐點優惠後總價
+IMG_6334_crop_013.jpg	1x
+IMG_6334_crop_035.jpg	12.00
+IMG_6334_crop_002.jpg	必比登推介的鵝肉飯)
+IMG_6334_crop_044.jpg	訂單編號
+IMG_6334_crop_021.jpg	追加滷鵝腸半
+IMG_6334_crop_036.jpg	滿$140減運費$12
+IMG_6334_crop_025.jpg	147.00
+IMG_6334_crop_005.jpg	取餐時間
+IMG_6334_crop_017.jpg	$89.00]
+IMG_6334_crop_015.jpg	山藥鵝骨湯
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_013.jpg	116.00
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_008.jpg	開單時間: 2025-11-14 17:27:46
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_024.jpg	2025-11-14 17:57:59
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_009.jpg	人數:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_002.jpg	Admin
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_016.jpg	忌廉雞肉焗飯
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_025.jpg	打印次數:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_003.jpg	流水號:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_011.jpg	2
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_019.jpg	174.00
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_010.jpg	2
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_007.jpg	00549/1
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_000.jpg	伊勢堂
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_015.jpg	A8
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_001.jpg	收銀員:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_012.jpg	B2 厚切三文魚生丼
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_023.jpg	打印時間:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_017.jpg	58.00
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_006.jpg	單號:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_026.jpg	2
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_004.jpg	000032421桌號:
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_014.jpg	*(多飯)
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_022.jpg	[PAID]
+2a58b604-a284-4159-be95-fc0c69bfe05f_crop_020.jpg	總計:
+WhatsApp Image 2025-11-24 at 09.16.14_crop_018.jpg	總數量 : 1
+WhatsApp Image 2025-11-24 at 09.16.14_crop_023.jpg	$208.60
+WhatsApp Image 2025-11-24 at 09.16.14_crop_002.jpg	Wonderland
+WhatsApp Image 2025-11-24 at 09.16.14_crop_019.jpg	$298.00
+WhatsApp Image 2025-11-24 at 09.16.14_crop_053.jpg	KEEP
+WhatsApp Image 2025-11-24 at 09.16.14_crop_017.jpg	$-89.40
+WhatsApp Image 2025-11-24 at 09.16.14_crop_020.jpg	$-89.40
+WhatsApp Image 2025-11-24 at 09.16.14_crop_054.jpg	PLEASE
+WhatsApp Image 2025-11-24 at 09.16.14_crop_056.jpg	EXCHANGE
+WhatsApp Image 2025-11-24 at 09.16.14_crop_021.jpg	$208.60
+WhatsApp Image 2025-11-24 at 09.16.14_crop_003.jpg	趣天地
+WhatsApp Image 2025-11-24 at 09.16.14_crop_014.jpg	$298.00
+20251124_071941_crop_011.jpg	檯號:
+20251124_071941_crop_008.jpg	樓205號舖
+20251124_071941_crop_028.jpg	$16.00
+20251124_071941_crop_020.jpg	$35.00
+20251124_071941_crop_018.jpg	結帳時間:2025-11-16 13:51:26
+20251124_071941_crop_015.jpg	000-0051
+20251124_071941_crop_030.jpg	$0.00
+20251124_071941_crop_017.jpg	落單時間:2025-11-16 13:05:57
+20251124_071941_crop_013.jpg	人數:1
+20251124_071941_crop_007.jpg	堤岸商場2
+20251124_071941_crop_021.jpg	:牛丸,豆卜
+20251124_071941_crop_035.jpg	自選米線
+20251124_071941_crop_026.jpg	$1.00
+20251124_071941_crop_006.jpg	新界火炭坳背灣街1 號星凱·
+20251124_071941_crop_005.jpg	S118-火炭星凱堤岸
+20251124_071941_crop_024.jpg	$0.00
+20251124_071941_crop_029.jpg	:麻辣涼拌汁
+20251124_071941_crop_003.jpg	TAMJAI SAMGOR
+20251124_071941_crop_023.jpg	:米線底
+20251124_071941_crop_036.jpg	$35.00
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_006.jpg	****5046(C)
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_013.jpg	19003174
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_021.jpg	Trace: 000007
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_030.jpg	the payment
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_053.jpg	V2.0.7
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_044.jpg	APP
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_041.jpg	TID:00024878
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_020.jpg	Batch: 000280
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_014.jpg	Ref:
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_033.jpg	the contents of the transaction
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_042.jpg	Visa
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_015.jpg	073025000007
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_043.jpg	Card
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_017.jpg	5345C2734EF4DC9E
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_032.jpg	responsibility
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_007.jpg	label:
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_029.jpg	KPay
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_024.jpg	TOTAL 總額
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_046.jpg	Platform
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_049.jpg	for
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_035.jpg	APOS A8
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_026.jpg	NO SIGNATURE REQUIRED
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_018.jpg	Expiry: XX/XX
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_040.jpg	MID:8521
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_011.jpg	290034459302563
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_016.jpg	TC:
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_028.jpg	according to card issuer agreement.
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_048.jpg	gateway
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_003.jpg	24071400709
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_025.jpg	HKD 800.00
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_036.jpg	KPay
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_051.jpg	Copy
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_012.jpg	Platform TID:
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_038.jpg	J'US
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_001.jpg	舖
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_019.jpg	ACode: 149582
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_008.jpg	VISA CREDIT
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_010.jpg	MID:
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_052.jpg	持卡人存根-
+6f02417b-ba6c-40b7-bec1-a92411de1b60_crop_005.jpg	No:
+20251124_071821_crop_005.jpg	123013092623
+20251124_071821_crop_030.jpg	8600472911
+20251124_071821_crop_031.jpg	截至昨天優惠餘額:
+20251124_071821_crop_024.jpg	八達通號碼: 101626321
+20251124_071821_crop_015.jpg	快活關愛長者咭 -3.0
+20251124_071821_crop_026.jpg	40#8[5
+20251124_071821_crop_022.jpg	八達通餘額:
+20251124_071821_crop_020.jpg	101626321
+20251124_071821_crop_023.jpg	104.4
+20251124_071821_crop_009.jpg	48.0
+20251124_071821_crop_021.jpg	45.0
+20251124_071821_crop_002.jpg	請留意取餐號碼:1847
+20251124_071821_crop_016.jpg	快活關愛長者咭 -3.0
+20251124_071821_crop_019.jpg	45.0
+test_samples_00017_crop_046.jpg	青衣青敬路33號青衣城第2層201號舖
+test_samples_00017_crop_033.jpg	總計:
+test_samples_00017_crop_041.jpg	印單時間
+test_samples_00017_crop_007.jpg	檯號: 33
+test_samples_00017_crop_000.jpg	檯:
+test_samples_00017_crop_045.jpg	多謝惠顧
+test_samples_00017_crop_008.jpg	數: 2
+test_samples_00017_crop_020.jpg	$173.0
+test_samples_00017_crop_017.jpg	三文魚沙律(免)
+test_samples_00017_crop_019.jpg	烤雞意大利飯(HOT MENU 3)
+test_samples_00017_crop_042.jpg	19:19:35
+test_samples_00017_crop_043.jpg	印單員工: Maggie Chau
+test_samples_00017_crop_027.jpg	法式蘋果批SET+$68
+test_samples_00017_crop_038.jpg	$262.0
+test_samples_00017_crop_034.jpg	$462.0
+test_samples_00017_crop_030.jpg	$420.0
+test_samples_00017_crop_031.jpg	加一服務費
+test_samples_00017_crop_036.jpg	$200.0
+test_samples_00017_crop_028.jpg	$68.0
+test_samples_00017_crop_024.jpg	熱檸檬茶~LEMON TEA
+test_samples_00017_crop_040.jpg	2
+test_samples_00017_crop_032.jpg	$42.0
+test_samples_00017_crop_044.jpg	請簽名
+test_samples_00017_crop_016.jpg	$179.0
+test_samples_00017_crop_005.jpg	Yi
+test_samples_00017_crop_035.jpg	MR 2025 11月 $
+test_samples_00017_crop_009.jpg	單號: 76003011
+test_samples_00017_crop_010.jpg	開單員工: Part Tim
+test_samples_00017_crop_014.jpg	$0.0
+test_samples_00017_crop_021.jpg	熱檸檬蜜~HONEY WATER (SET
+test_samples_00017_crop_002.jpg	Pick
+test_samples_00017_crop_001.jpg	33
+test_samples_00017_crop_037.jpg	MASTER
+test_samples_00017_crop_003.jpg	Coffee
+test_samples_00017_crop_022.jpg	FR1
+test_samples_00017_crop_004.jpg	(Tsing
+test_samples_00017_crop_006.jpg	顧客單據
+20251124_072330_crop_020.jpg	$18.00
+20251124_072330_crop_034.jpg	以四捨五入計算至整數
+20251124_072330_crop_027.jpg	:麻辣汁
+20251124_072330_crop_024.jpg	$16.00
+20251124_072330_crop_008.jpg	收據
+20251124_072330_crop_006.jpg	樓205號舖
+20251124_072330_crop_016.jpg	$11.00
+20251124_072330_crop_011.jpg	外賣
+20251124_072330_crop_033.jpg	$50.00
+20251124_072330_crop_012.jpg	落單時間:2025-11-23 14:48:59
+20251124_072330_crop_028.jpg	$3.00
+20251124_072330_crop_004.jpg	S118-火炭星凱堤岸
+20251124_072330_crop_022.jpg	$0.00
+20251124_072330_crop_015.jpg	自選米線
+20251124_072330_crop_013.jpg	結帳時間:2025-11-23 14:49:26
+20251124_072330_crop_026.jpg	$0.00
+20251124_072330_crop_021.jpg	凍檸檬茶
+20251124_072330_crop_023.jpg	:少甜
+20251124_072330_crop_001.jpg	三哥
+20251124_072330_crop_025.jpg	手拍青瓜
+20251124_072330_crop_019.jpg	:麻辣湯底,(小)
+20251124_072330_crop_009.jpg	賬單:
+20251124_072330_crop_014.jpg	$35.00
+555_crop_056.jpg	53.90
+555_crop_009.jpg	商品
+555_crop_071.jpg	813.02
+555_crop_000.jpg	Sam's
+555_crop_039.jpg	39.90
+555_crop_060.jpg	852.50
+555_crop_007.jpg	06911 004
+555_crop_046.jpg	980217108
+555_crop_038.jpg	980223732
+555_crop_055.jpg	980075040
+555_crop_040.jpg	39.90
+555_crop_027.jpg	47.90
+555_crop_022.jpg	981079379
+555_crop_073.jpg	813.02
+555_crop_048.jpg	79.90
+555_crop_042.jpg	980216853
+555_crop_024.jpg	59.90
+555_crop_031.jpg	75.90
+555_crop_018.jpg	980232242
+555_crop_015.jpg	65.9(
+555_crop_020.jpg	55.90
+555_crop_032.jpg	75. 90
+555_crop_036.jpg	43.90
+555_crop_023.jpg	59.90
+555_crop_053.jpg	199.60
+555_crop_026.jpg	981106068
+555_crop_043.jpg	49.90
+555_crop_016.jpg	65.90
+555_crop_059.jpg	15
+555_crop_051.jpg	981014614
+555_crop_044.jpg	49.90
+555_crop_019.jpg	55.90
+555_crop_049.jpg	159.80
+IMG_6326_crop_002.jpg	收銀員:
+IMG_6326_crop_027.jpg	257.00
+IMG_6326_crop_008.jpg	00909/1
+IMG_6326_crop_032.jpg	3
+IMG_6326_crop_033.jpg	THANK YOU!
+IMG_6326_crop_012.jpg	A21十勝豚肉井
+IMG_6326_crop_024.jpg	小計:
+IMG_6326_crop_025.jpg	257.00
+IMG_6326_crop_000.jpg	伊勢堂
+IMG_6326_crop_005.jpg	000030937桌號:
+IMG_6326_crop_010.jpg	人數:
+IMG_6326_crop_011.jpg	2
+IMG_6326_crop_022.jpg	5.00
+IMG_6326_crop_020.jpg	78.00
+IMG_6326_crop_006.jpg	12
+IMG_6326_crop_015.jpg	58.00
+IMG_6326_crop_018.jpg	58.00
+IMG_6326_crop_004.jpg	流水號:
+IMG_6326_crop_009.jpg	開單時間: 2025-10-24 17:15:00
+20251120_181921_crop_005.jpg	金旺食品超級市場 (駿洋)
+20251120_181921_crop_021.jpg	$32.00
+20251120_181921_crop_020.jpg	八達通付款
+20251120_181921_crop_022.jpg	餘額:
+20251120_181921_crop_030.jpg	2025/11/17 17:04:34
+20251120_181921_crop_002.jpg	市 場
+20251120_181921_crop_027.jpg	531892
+20251120_181921_crop_026.jpg	機號
+20251120_181921_crop_012.jpg	1160011
+20251120_181921_crop_015.jpg	$16:00
+20251120_181921_crop_018.jpg	合計 :
+20251120_181921_crop_003.jpg	GR
+20251120_181921_crop_007.jpg	銷售單
+20251120_181921_crop_025.jpg	23923097
+20251120_181921_crop_019.jpg	$32.00
+20251120_181921_crop_017.jpg	2.00
+test_samples_00004_crop_029.jpg	打印時間:
+test_samples_00004_crop_002.jpg	收銀員:
+test_samples_00004_crop_000.jpg	伊勢堂
+test_samples_00004_crop_025.jpg	257.00
+test_samples_00004_crop_034.jpg	YOU!
+test_samples_00004_crop_001.jpg	Dine In
+test_samples_00004_crop_030.jpg	3
+test_samples_00004_crop_014.jpg	58.00
+test_samples_00004_crop_019.jpg	58.00
+test_samples_00004_crop_021.jpg	78.00
+test_samples_00004_crop_026.jpg	總計:
+test_samples_00004_crop_024.jpg	小計:
+test_samples_00004_crop_033.jpg	2025-10-24
+test_samples_00004_crop_031.jpg	打印次數:
+test_samples_00004_crop_003.jpg	Admin
+test_samples_00004_crop_006.jpg	12
+test_samples_00004_crop_023.jpg	5.00
+test_samples_00004_crop_022.jpg	D1面豉湯
+test_samples_00004_crop_032.jpg	17:52:15
+test_samples_00004_crop_027.jpg	257.00
+test_samples_00004_crop_035.jpg	THANK
+test_samples_00004_crop_028.jpg	[PAID]
+test_samples_00004_crop_010.jpg	人數:
+test_samples_00004_crop_016.jpg	58.00
+test_samples_00004_crop_011.jpg	2
+test_samples_00004_crop_012.jpg	A21
+WhatsApp Image 2025-11-07 at 18.12.10_crop_024.jpg	Subtotal:
+WhatsApp Image 2025-11-07 at 18.12.10_crop_005.jpg	TBL:
+WhatsApp Image 2025-11-07 at 18.12.10_crop_018.jpg	55.00
+WhatsApp Image 2025-11-07 at 18.12.10_crop_025.jpg	253.00
+WhatsApp Image 2025-11-07 at 18.12.10_crop_013.jpg	咸魚雞粒炒飯
+WhatsApp Image 2025-11-07 at 18.12.10_crop_015.jpg	58.00
+WhatsApp Image 2025-11-07 at 18.12.10_crop_000.jpg	Bangkok B.B.Q.( Tsing Yi)
+WhatsApp Image 2025-11-07 at 18.12.10_crop_016.jpg	雞絲炒鳥冬
+WhatsApp Image 2025-11-07 at 18.12.10_crop_023.jpg	24.00
+WhatsApp Image 2025-11-07 at 18.12.10_crop_029.jpg	THANK YOU!
+WhatsApp Image 2025-11-07 at 18.12.10_crop_001.jpg	[Prepayment]
+WhatsApp Image 2025-11-07 at 18.12.10_crop_002.jpg	Dine In
+WhatsApp Image 2025-11-07 at 18.12.10_crop_009.jpg	58.00
+WhatsApp Image 2025-11-07 at 18.12.10_crop_003.jpg	Cashier: Admin
+WhatsApp Image 2025-11-07 at 18.12.10_crop_006.jpg	GST:
+WhatsApp Image 2025-11-07 at 18.12.10_crop_004.jpg	Open at: 2025-11-07 17:21:45
+WhatsApp Image 2025-11-07 at 18.12.10_crop_027.jpg	Times of Printing:
+WhatsApp Image 2025-11-07 at 18.12.10_crop_019.jpg	沙爹汁客飯
+20251024_225854_crop_017.jpg	44.50
+20251024_225854_crop_006.jpg	Shatin Galleria,
+20251024_225854_crop_033.jpg	八達通卡編號
+20251024_225854_crop_031.jpg	八達通付款
+20251024_225854_crop_025.jpg	1
+20251024_225854_crop_029.jpg	外賈 Total
+20251024_225854_crop_001.jpg	號顯示屏/Screen
+20251024_225854_crop_028.jpg	54.50
+20251024_225854_crop_034.jpg	0070633294
+20251024_225854_crop_013.jpg	數量 產品
+20251024_225854_crop_030.jpg	54.50
+20251024_225854_crop_036.jpg	588609/3871
+20251024_225854_crop_026.jpg	泰式辣醬(1包)
+20251024_225854_crop_005.jpg	(211)
+20251024_225854_crop_020.jpg	鋒味胡椒蟹風味調味粉
+20251024_225854_crop_009.jpg	Tel
+20251024_225854_crop_038.jpg	317.00
+20251024_225854_crop_003.jpg	541
+20251024_225854_crop_035.jpg	機號/交易編號
+20251024_225854_crop_015.jpg	1
+test_samples_00006_crop_020.jpg	八達通
+test_samples_00006_crop_017.jpg	$26.0
+test_samples_00006_crop_003.jpg	電話
+test_samples_00006_crop_001.jpg	Panash
+test_samples_00006_crop_002.jpg	葵芳興芳路223號新都會廣場4樓480A號舖
+test_samples_00006_crop_007.jpg	Metro Plaza (Bakery)/
+test_samples_00006_crop_006.jpg	01465
+test_samples_00006_crop_028.jpg	上一次於2025-11-15自動增值
+test_samples_00006_crop_029.jpg	多謝惠顧
+test_samples_00006_crop_026.jpg	八達通餘額
+test_samples_00006_crop_012.jpg	15:41
+test_samples_00006_crop_004.jpg	24310268
+test_samples_00006_crop_033.jpg	單號
+test_samples_00006_crop_021.jpg	$26.0
+test_samples_00006_crop_027.jpg	$413.3
+test_samples_00006_crop_019.jpg	$26.0
+test_samples_00006_crop_010.jpg	001
+test_samples_00006_crop_025.jpg	40DC64
+test_samples_00006_crop_034.jpg	員工
+test_samples_00006_crop_018.jpg	總數
+test_samples_00006_crop_030.jpg	請再光臨
+test_samples_00006_crop_024.jpg	102328199
+test_samples_00006_crop_022.jpg	八達通號碼
+test_samples_00006_crop_011.jpg	15/11/2025
+test_samples_00006_crop_015.jpg	$26.0
+IMG_6325_crop_030.jpg	96.00
+IMG_6325_crop_008.jpg	數量 產品
+IMG_6325_crop_017.jpg	1 餐中薯條
+IMG_6325_crop_014.jpg	可樂(套餐)
+IMG_6325_crop_019.jpg	可樂(套餐)
+IMG_6325_crop_013.jpg	1
+IMG_6325_crop_024.jpg	泰式辣醬(1包)
+IMG_6325_crop_029.jpg	八達通付款
+IMG_6325_crop_000.jpg	525
+IMG_6325_crop_004.jpg	Kowloon
+IMG_6325_crop_021.jpg	脆香雞翼(2件)
+IMG_6325_crop_026.jpg	96.00
+IMG_6325_crop_033.jpg	機號/交易編號
+IMG_6325_crop_023.jpg	1
+IMG_6325_crop_011.jpg	42.00
+IMG_6325_crop_032.jpg	0193925401
+IMG_6325_crop_035.jpg	八達通餘額
+IMG_6325_crop_034.jpg	58E682/2989
+IMG_6325_crop_005.jpg	Tel
+IMG_6325_crop_016.jpg	44.00
+IMG_6325_crop_012.jpg	1 餐中薯條
+IMG_6325_crop_003.jpg	Amoy Plaza Phase II
+IMG_6325_crop_036.jpg	137.60
+IMG_6325_crop_002.jpg	(238)
+IMG_6325_crop_006.jpg	2798 6967
+20251124_071752_crop_025.jpg	$34. 00
+20251124_071752_crop_038.jpg	$109. 10
+20251124_071752_crop_011.jpg	卡號碼:
+20251124_071752_crop_032.jpg	5C079F
+20251124_071752_crop_006.jpg	G/F,
+20251124_071752_crop_037.jpg	餘額
+20251124_071752_crop_041.jpg	日期/時間
+20251124_071752_crop_027.jpg	$34. 00
+20251124_071752_crop_040.jpg	5C079F2511081845372B73
+20251124_071752_crop_031.jpg	機號
+20251124_071752_crop_016.jpg	6
+20251124_071752_crop_039.jpg	交易號碼
+20251124_071752_crop_036.jpg	$34. 00
+20251124_071752_crop_050.jpg	18:45:18
+20251124_071752_crop_000.jpg	百佳
+20251124_071752_crop_019.jpg	188774 唯潔雅三摺式抹手紙
+20251124_071752_crop_042.jpg	2025-11-08 18:45:41
+20251124_071752_crop_053.jpg	Shop
+20251124_071752_crop_023.jpg	$34. 00
+20251124_071752_crop_026.jpg	Octopus
+20251124_071752_crop_009.jpg	Fo Tan,
+20251124_072108_crop_042.jpg	Number of Items:
+20251124_072108_crop_008.jpg	MALL
+20251124_072108_crop_041.jpg	Remaining Value:64.4
+20251124_072108_crop_035.jpg	40.0
+20251124_072108_crop_052.jpg	全單總額
+20251124_072108_crop_050.jpg	我司不設退貨或換貨.不便之處, 敬請諒解
+20251124_072108_crop_034.jpg	總金額
+20251124_072108_crop_031.jpg	40.0
+20251124_072108_crop_021.jpg	發票編號
+20251124_072108_crop_029.jpg	必理痛傷風感冒熱飲-檸檬 5'S HK [件]
+20251124_072108_crop_020.jpg	收據
+20251124_072108_crop_032.jpg	0.0
+20251124_072108_crop_023.jpg	產品
+20251124_072108_crop_001.jpg	LUNG FUNG GROUP
+20251124_072108_crop_010.jpg	香港新界沙田沙田中心3樓 6-8,
+20251124_072108_crop_005.jpg	註冊成為新會員
+20251124_072108_crop_049.jpg	已售出之貨品,
+20251124_072108_crop_017.jpg	Shatin Centre, N.T.
+20251124_072108_crop_026.jpg	正價
+20251124_072108_crop_006.jpg	LUNG
+20251124_072108_crop_013.jpg	Shop No
+20251124_072108_crop_040.jpg	Original Value: 104.4
+20251124_072108_crop_053.jpg	將以 四捨五入 作結算.
+20251124_072108_crop_045.jpg	日期
+20251124_072108_crop_044.jpg	1001
+20251124_072108_crop_037.jpg	40.0
+20251124_072108_crop_051.jpg	如因折扣而出現小數,
+20251124_072108_crop_004.jpg	立即掃瞄二維碼
+20251124_072108_crop_000.jpg	龍豐集團
+20251124_072108_crop_018.jpg	電話
+20251124_072108_crop_022.jpg	00000028K1000117929
+20251124_072108_crop_047.jpg	14:18:55
+20251124_072108_crop_019.jpg	2813 4828
+20251124_072108_crop_027.jpg	折扣
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_049.jpg	B I
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_036.jpg	193925401
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_024.jpg	$14.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_034.jpg	$196.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_043.jpg	2025-10-20 12:37:57
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_047.jpg	No 10% Service Charge
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_050.jpg	Please pay at Cashier
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_006.jpg	44
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_046.jpg	0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_012.jpg	$0.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_020.jpg	$12.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_009.jpg	7858
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_037.jpg	$2.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_016.jpg	$35.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_030.jpg	$0.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_051.jpg	001-2025/10/20 12:37:58
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_031.jpg	總金額
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_026.jpg	$35.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_002.jpg	Saizeriya
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_014.jpg	$20.0
+E99D2C40-DD83-4C78-9B31-36D9EA457577_crop_019.jpg	蒜香法包
+xcfvgbhnjk_crop_027.jpg	2266 2222
+xcfvgbhnjk_crop_014.jpg	64314
+xcfvgbhnjk_crop_019.jpg	收據編號:
+xcfvgbhnjk_crop_025.jpg	八達通顧客服務熱線
+xcfvgbhnjk_crop_015.jpg	機號:
+xcfvgbhnjk_crop_003.jpg	日期/時間:
+xcfvgbhnjk_crop_006.jpg	$79.0
+xcfvgbhnjk_crop_000.jpg	名創優品
+xcfvgbhnjk_crop_024.jpg	Thank you!
+xcfvgbhnjk_crop_004.jpg	20/11/202514:16
+xcfvgbhnjk_crop_001.jpg	MINISO
+xcfvgbhnjk_crop_007.jpg	八達通付款
+xcfvgbhnjk_crop_010.jpg	$341.1
+xcfvgbhnjk_crop_018.jpg	90000000
+xcfvgbhnjk_crop_021.jpg	上一次於 20/11/2025 自動增值
+xcfvgbhnjk_crop_013.jpg	商戶編號:
+xcfvgbhnjk_crop_005.jpg	20/11/2025 14:16
+xcfvgbhnjk_crop_017.jpg	操作員編號:
+xcfvgbhnjk_crop_008.jpg	$79.0
+xcfvgbhnjk_crop_022.jpg	多謝惠顧!
+xcfvgbhnjk_crop_009.jpg	餘額:
+xcfvgbhnjk_crop_012.jpg	171105904
+test_samples_00016_crop_006.jpg	18 Hoi Ting Road
+test_samples_00016_crop_031.jpg	-45.6
+test_samples_00016_crop_034.jpg	$410.4
+test_samples_00016_crop_019.jpg	158.0
+test_samples_00016_crop_016.jpg	0
+test_samples_00016_crop_024.jpg	Fresh Seasonal Veggies
+test_samples_00016_crop_002.jpg	Outback Steakhouse
+test_samples_00016_crop_025.jpg	Hot
+test_samples_00016_crop_029.jpg	0.0
+test_samples_00016_crop_039.jpg	$456
+test_samples_00016_crop_032.jpg	10.00 %
+test_samples_00016_crop_026.jpg	Lemon Water
+test_samples_00016_crop_037.jpg	Total
+test_samples_00016_crop_018.jpg	$158 Grilled Halibut
+test_samples_00016_crop_036.jpg	$45.6
+test_samples_00016_crop_013.jpg	3
+test_samples_00016_crop_028.jpg	Ice Lemon Tea (Lunch)
+test_samples_00016_crop_012.jpg	GST
+20251124_071838_crop_009.jpg	Tel
+20251124_071838_crop_026.jpg	27.00
+20251124_071838_crop_004.jpg	McDonald's Hong Kong
+20251124_071838_crop_023.jpg	配中薯條
+20251124_071838_crop_019.jpg	甜酸醬
+20251124_071838_crop_027.jpg	外賣 Total
+20251124_071838_crop_035.jpg	27.00
+20251124_071838_crop_036.jpg	支付交易號:2025110899401001420299395764
+20251124_071838_crop_003.jpg	592
+20251124_071838_crop_014.jpg	1 麥樂雞餐9件餐
+20251124_071838_crop_015.jpg	50.50
+20251124_071838_crop_011.jpg	#592 -CS0 #42- 09/11/2025 15:08:44
+20251124_071838_crop_021.jpg	燒烤醬
+20251124_071838_crop_033.jpg	0.00
+20251124_071838_crop_006.jpg	Shatin Galleria,
+20251124_071838_crop_017.jpg	-23.50
+20251124_071838_crop_007.jpg	Fo Tan,
+20251124_071838_crop_038.jpg	多謝惠顧,塑膠購物袋收費恕不設退款.
+20251124_071838_crop_039.jpg	ORD
+20251124_071838_crop_032.jpg	優惠/預付卡扣減:
+20251124_071838_crop_028.jpg	27.00
+20251124_071838_crop_010.jpg	2145 4123
+20251124_071838_crop_012.jpg	數量 產品
+20251124_071838_crop_029.jpg	Mobile Pay
+20251124_071838_crop_034.jpg	賬戶支付:
+20251124_071838_crop_025.jpg	小計
+20251124_071838_crop_030.jpg	27.00
+test_samples_00018_crop_029.jpg	18:50:32
+test_samples_00018_crop_019.jpg	387. 80
+test_samples_00018_crop_028.jpg	時間
+test_samples_00018_crop_034.jpg	yuu ID:934480000322116
+test_samples_00018_crop_041.jpg	)到購買分店換貨或退款;指定貨品不設退
+test_samples_00018_crop_018.jpg	餘額
+test_samples_00018_crop_030.jpg	上--次於 2025-11-24
+test_samples_00018_crop_020.jpg	機號
+test_samples_00018_crop_004.jpg	GP超霸鹼性電池2A22件
+test_samples_00018_crop_015.jpg	00
+test_samples_00018_crop_003.jpg	10. 00
+test_samples_00018_crop_021.jpg	5154B6
+test_samples_00018_crop_000.jpg	惠康 Wellcome
+test_samples_00018_crop_023.jpg	102328199
+test_samples_00018_crop_017.jpg	50. 00
+test_samples_00018_crop_007.jpg	50. 00
+test_samples_00018_crop_025.jpg	4179
+test_samples_00018_crop_035.jpg	111730
+test_samples_00018_crop_037.jpg	積分結餘
+test_samples_00018_crop_032.jpg	25112025/18:50/5665/001/4179/15028291
+test_samples_00018_crop_002.jpg	水動樂電解質補充飲品
+test_samples_00018_crop_031.jpg	上一次於 2025-11-24
+20251124_071805_crop_029.jpg	$112.00
+20251124_071805_crop_042.jpg	上一次於 2025-11-08 現金增值
+20251124_071805_crop_011.jpg	$42.00
+20251124_071805_crop_044.jpg	可兌換積分之現金等值 : $0
+20251124_071805_crop_019.jpg	$15.80
+20251124_071805_crop_032.jpg	餘額:
+20251124_071805_crop_021.jpg	$-2.80
+20251124_071805_crop_043.jpg	會員 : C0******42
+20251124_071805_crop_014.jpg	$84.00
+20251124_071805_crop_027.jpg	件數:6
+20251124_071805_crop_049.jpg	急凍/冷凍食品須前往有售相關貨品之分店
+20251124_071805_crop_026.jpg	$-20.00
+20251124_071805_crop_051.jpg	交易完成後翌日更新
+20251124_071805_crop_031.jpg	$112.00
+20251124_071805_crop_030.jpg	八達通付款:
+20251124_071805_crop_037.jpg	5B05A7
+20251124_071805_crop_010.jpg	$42.00
+20251124_071805_crop_006.jpg	2025/11/08
+20251124_071805_crop_039.jpg	5B05A72511081342042A1F
+20251124_071805_crop_016.jpg	$-27.00
+20251124_071805_crop_041.jpg	2025-11-08 13:42:05
+20251124_071805_crop_034.jpg	八達通號碼:
+20251124_071805_crop_002.jpg	360
+20251124_071805_crop_036.jpg	機號:
+20251124_071805_crop_004.jpg	S045
+20251124_071805_crop_025.jpg	折扣
+20251124_071805_crop_046.jpg	如產品品質非處於良好狀況，購物起7天內憑
+20251124_071805_crop_024.jpg	$20.00
+20251124_071805_crop_033.jpg	$702.00
+20251124_071805_crop_045.jpg	現有積分 : 847 (有效期每年01/01至31/12)
+20251124_071805_crop_018.jpg	2x $7.90
+20251124_071805_crop_035.jpg	23923097
+20251124_071805_crop_054.jpg	1x
+IMG_6327_crop_021.jpg	62.0
+IMG_6327_crop_002.jpg	Tel:2495-0822
+IMG_6327_crop_030.jpg	$348.0
+IMG_6327_crop_001.jpg	九龍青衣細山路2號美景花園平臺72號舖
+IMG_6327_crop_010.jpg	Date: 2025-09-25
+IMG_6327_crop_020.jpg	17:50 D08紫菜卷飯
+IMG_6327_crop_007.jpg	Cardno: 800012
+IMG_6327_crop_025.jpg	10% Service:
+IMG_6327_crop_026.jpg	31.60
+IMG_6327_crop_014.jpg	98.0
+IMG_6327_crop_022.jpg	Sub Total
+IMG_6327_crop_023.jpg	316.0
+IMG_6327_crop_012.jpg	18:38
+IMG_6327_crop_003.jpg	#: 1
+IMG_6327_crop_018.jpg	滿]辣)
+IMG_6327_crop_031.jpg	Cash
+IMG_6327_crop_024.jpg	(0000119183)
+IMG_6327_crop_027.jpg	Total
+IMG_6327_crop_032.jpg	$348.0
+IMG_6327_crop_028.jpg	$348.0
+IMG_6327_crop_016.jpg	78.0
+IMG_6327_crop_017.jpg	17:50 C05軟滑豆腐海鮮湯
+IMG_6327_crop_015.jpg	17:50 C04辣泡菜湯飯
+20251124_071717_crop_016.jpg	$113.0
+20251124_071717_crop_011.jpg	$15.0
+20251124_071717_crop_003.jpg	外賣
+20251124_071717_crop_017.jpg	付款方式:
+20251124_071717_crop_020.jpg	$113.0
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_017.jpg	$1.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_040.jpg	$169.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_020.jpg	$16.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_035.jpg	-$16.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_007.jpg	$0.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_042.jpg	日期 Date
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_038.jpg	以四捨五入計算至整數
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_009.jpg	$0.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_024.jpg	$0.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_011.jpg	$0.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_016.jpg	$0.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_037.jpg	$169.00
+ce968687-57ad-488c-9061-85b5ae0a6b0b_crop_039.jpg	支付寶
+test_samples_00015_crop_016.jpg	x LG583976
+test_samples_00015_crop_028.jpg	$-99.80
+test_samples_00015_crop_034.jpg	0084 /S009-4
+test_samples_00015_crop_008.jpg	Receipt 收據
+test_samples_00015_crop_036.jpg	0084
+test_samples_00015_crop_026.jpg	$796.00
+test_samples_00015_crop_051.jpg	WONDERLAND SUPERSTORE POLICY.
+test_samples_00015_crop_006.jpg	Tel:
+test_samples_00015_crop_010.jpg	0230744
+test_samples_00015_crop_032.jpg	$696.20
+test_samples_00015_crop_015.jpg	SET
+test_samples_00015_crop_013.jpg	$498.00
+test_samples_00015_crop_030.jpg	$696.20
+test_samples_00015_crop_017.jpg	$-49 80
+test_samples_00015_crop_005.jpg	樓204-205號舖
+test_samples_00015_crop_001.jpg	Wonderland奇趣天地
+test_samples_00015_crop_014.jpg	MEDIEVAL DRAGON
+test_samples_00008_crop_021.jpg	68.00
+test_samples_00008_crop_032.jpg	單號
+test_samples_00008_crop_033.jpg	276012
+test_samples_00008_crop_007.jpg	S10
+test_samples_00008_crop_001.jpg	熟客
+test_samples_00008_crop_020.jpg	SL17 谷飼肥牛喇沙
+test_samples_00008_crop_026.jpg	加一服務費
+test_samples_00008_crop_014.jpg	68.
+test_samples_00008_crop_017.jpg	凍檸檬茶
+test_samples_00008_crop_018.jpg	2
+test_samples_00008_crop_011.jpg	開檯時間
+test_samples_00008_crop_030.jpg	Winnie
+test_samples_00008_crop_034.jpg	POS編號
+test_samples_00008_crop_009.jpg	276012
+test_samples_00008_crop_024.jpg	小計
+test_samples_00008_crop_027.jpg	13.80
+test_samples_00008_crop_029.jpg	152.00
+test_samples_00008_crop_008.jpg	賬單號碼
+test_samples_00008_crop_013.jpg	SL18 谷飼肥牛牛筋
+test_samples_00008_crop_004.jpg	52093034
+test_samples_00008_crop_023.jpg	熱檸橡水
+test_samples_00008_crop_035.jpg	A12372-POS-01
+test_samples_00008_crop_031.jpg	22/10/2025 13:48:39
+test_samples_00005_crop_021.jpg	194.00
+test_samples_00005_crop_010.jpg	2
+test_samples_00005_crop_017.jpg	68.00
+test_samples_00005_crop_012.jpg	58.00
+test_samples_00005_crop_007.jpg	00382/1
+test_samples_00005_crop_015.jpg	68.00
+test_samples_00005_crop_001.jpg	收銀員:
+test_samples_00005_crop_022.jpg	2025-10-31 12:56:19
+test_samples_00005_crop_025.jpg	[PAID]
+test_samples_00005_crop_026.jpg	打印時間:
+test_samples_00005_crop_014.jpg	B3 芥辣八爪魚魚生丼
+test_samples_00005_crop_000.jpg	伊勢堂
+test_samples_00005_crop_018.jpg	小計:
+test_samples_00005_crop_020.jpg	總計:
+test_samples_00005_crop_019.jpg	194.00
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_033.jpg	-798
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_043.jpg	加盟店名
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_028.jpg	紙袋
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_000.jpg	無印良品
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_020.jpg	@1,810
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_025.jpg	(合算合計
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_032.jpg	<免稅額>
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_046.jpg	0120-14-6404
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_038.jpg	(消費稅等
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_009.jpg	is
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_002.jpg	銀座
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_011.jpg	excluded.
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_018.jpg	792
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_008.jpg	here
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_022.jpg	7,240
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_048.jpg	Mastercard(116)
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_016.jpg	@264
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_007.jpg	The price shown
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_029.jpg	@10
+bd8cb9c3-2262-45de-bda0-d0a2eae80949_crop_036.jpg	合計
+xcvbhnjmk_crop_022.jpg	on your octopus card
+xcvbhnjmk_crop_009.jpg	Entry Time:
+xcvbhnjmk_crop_002.jpg	Redemption Time:
+xcvbhnjmk_crop_000.jpg	Panda Place
+xcvbhnjmk_crop_016.jpg	Till: 2025-11-15 13:55
+xcvbhnjmk_crop_003.jpg	2025-11-15 13:35:54
+xcvbhnjmk_crop_006.jpg	93134609
+xcvbhnjmk_crop_018.jpg	Add value if
+xcvbhnjmk_crop_019.jpg	there
+xcvbhnjmk_crop_012.jpg	Counter
+xcvbhnjmk_crop_014.jpg	Hours
+xcvbhnjmk_crop_004.jpg	Octopus Card
+xcvbhnjmk_crop_011.jpg	CCC
+xcvbhnjmk_crop_007.jpg	Remaining Value:
+xcvbhnjmk_crop_023.jpg	Thank
+IMG_6328_crop_021.jpg	$12.0
 IMG_6328_crop_027.jpg	$35.0
+IMG_6328_crop_033.jpg	$196.0
+IMG_6328_crop_015.jpg	$20.0
+IMG_6328_crop_009.jpg	7858
+IMG_6328_crop_006.jpg	44
+IMG_6328_crop_019.jpg	$30.0
+20251120_181850_crop_036.jpg	日期
+20251120_181850_crop_029.jpg	22. 10
+20251120_181850_crop_003.jpg	話:24672342
+20251120_181850_crop_015.jpg	80. 00
+20251120_181850_crop_024.jpg	2100030150527
+20251120_181850_crop_034.jpg	收據號碼
+20251120_181850_crop_019.jpg	64. 00
+20251120_181850_crop_037.jpg	2025/11/11
+20251120_181850_crop_001.jpg	mannings
+20251120_181850_crop_000.jpg	萬寧
+20251120_181850_crop_023.jpg	15. 00
+20251120_181850_crop_008.jpg	J.M
+20251120_181850_crop_041.jpg	現金增值
+20251120_181850_crop_033.jpg	101626321
+20251120_181850_crop_040.jpg	上一次於 2025-11-08
+20251120_181850_crop_012.jpg	巾
+20251120_181850_crop_017.jpg	-16. 00
+20251120_181850_crop_039.jpg	18:29:43
+20251120_181850_crop_016.jpg	促銷優惠總金額
+20251120_181850_crop_035.jpg	2717
+20251120_181850_crop_027.jpg	49. 00
+20251120_181850_crop_031.jpg	515948
+20251120_181850_crop_009.jpg	4
+20251124_071924_crop_006.jpg	$18.0
+20251124_071924_crop_010.jpg	付款方式:
+20251124_071924_crop_022.jpg	日期/時間
+20251124_071924_crop_003.jpg	25235800
+20251124_071924_crop_008.jpg	總金額
+20251124_071924_crop_028.jpg	2709
+20251124_071924_crop_009.jpg	$18.0
+20251124_071924_crop_017.jpg	5B131D
+20251124_071924_crop_015.jpg	23923097
+20251124_071924_crop_026.jpg	ID: 934480010341346
+20251124_071924_crop_025.jpg	yuu
+20251124_071924_crop_035.jpg	0101366451
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_033.jpg	Welcome
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_029.jpg	Total
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_021.jpg	62.0
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_027.jpg	Total
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_015.jpg	78.0
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_010.jpg	Time:
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_023.jpg	316.0
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_002.jpg	Tel:2495-0822
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_017.jpg	滿]辣)
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_030.jpg	$348.0
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_032.jpg	$348.0
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_008.jpg	Guest No.: 2
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_020.jpg	17:50 D08紫菜卷飯
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_026.jpg	31.60
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_012.jpg	17:50 C01牛骨湯飯
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_016.jpg	17:50 C05軟滑豆腐海鮮湯
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_014.jpg	17:50 C04辣泡菜湯飯
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_000.jpg	韓餐韓國料理
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_005.jpg	5
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_007.jpg	Staff: 經理
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_028.jpg	$348.0
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_031.jpg	Cash
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_009.jpg	Date: 2025-09-26
+7890A2AB-E73B-4E42-9190-0899A41E42CA_crop_011.jpg	18:38
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_025.jpg	24.00
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_014.jpg	咸魚雞粒炒飯
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_024.jpg	drink +8
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_020.jpg	55.00
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_006.jpg	GST:
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_007.jpg	1
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_008.jpg	4
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_004.jpg	Open at: 2025-11-07 17:21:45
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_021.jpg	沙爹汁客飯
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_031.jpg	THANK YOU!
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_022.jpg	*(雞)
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_015.jpg	1
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_003.jpg	Cashier: Admin
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_002.jpg	Dine In
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_005.jpg	TBL:
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_013.jpg	58.00
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_026.jpg	Subtotal:
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_000.jpg	Bangkok B.B.Q.(Tsing Yi)
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_017.jpg	58.00
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_010.jpg	58.00
+36C65796-1967-42FE-BFE6-BF332D6DC1F7_crop_029.jpg	Times of Printing:
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_014.jpg	1
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_021.jpg	$60.0
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_004.jpg	91525
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_022.jpg	總數
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_002.jpg	5559 4551
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_029.jpg	193925401
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_039.jpg	66
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_032.jpg	-$42.2
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_015.jpg	1
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_037.jpg	等餐編號
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_023.jpg	$60.0
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_034.jpg	5C002D25100317364807A4
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_010.jpg	$60.0
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_007.jpg	員工
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_011.jpg	油麵
+3F44BEB6-38D1-4773-93BB-4F8B33EECCF3_crop_027.jpg	03/10/2025 17:36
+20251124_072121_crop_002.jpg	支付寶電子錢包增值
+20251124_072121_crop_008.jpg	20251117/15:26/2/4928/15056286
+20251124_072121_crop_012.jpg	成功
+20251124_072121_crop_022.jpg	"我的",查看"客戶服務"相關內容.
+20251124_072121_crop_036.jpg	Ltd. 牛奶有限公司
+20251124_072121_crop_003.jpg	500. 00
+20251124_072121_crop_006.jpg	現金
+20251124_072121_crop_034.jpg	Farm Co.
+20251124_072121_crop_007.jpg	500. 00
+20251124_072121_crop_033.jpg	The Dairy
+20251124_072121_crop_009.jpg	1711250004270024928
+20251124_072121_crop_014.jpg	絛款及細則:
+fghjk_crop_022.jpg	小
+fghjk_crop_012.jpg	單號: 251127B000240
+fghjk_crop_037.jpg	4.0
+fghjk_crop_030.jpg	台共2件
+111_crop_015.jpg	$53.00
+111_crop_034.jpg	$106.00
+111_crop_019.jpg	:米線底
+111_crop_023.jpg	走甜
+111_crop_014.jpg	砂砂湯四送米線套餐
+111_crop_055.jpg	20251025/14:
+111_crop_057.jpg	App內查閱
+111_crop_038.jpg	八達通
+111_crop_010.jpg	000-0129
+111_crop_058.jpg	:46/8584/1
+111_crop_032.jpg	$0.00
+111_crop_029.jpg	米線底
+111_crop_045.jpg	534FE4
+111_crop_059.jpg	/10081
+111_crop_039.jpg	$106.00
+111_crop_009.jpg	賬單:
+111_crop_017.jpg	$0.00
+111_crop_043.jpg	$-10.2
+111_crop_036.jpg	$106.00
+111_crop_042.jpg	餘額
+20251124_072053_crop_013.jpg	賬單:
+20251124_072053_crop_000.jpg	譚仔
+20251124_072053_crop_009.jpg	收據
+20251124_072053_crop_015.jpg	堂食
+20251124_072053_crop_001.jpg	三哥
+20251124_072053_crop_044.jpg	534FE1
+20251124_072053_crop_016.jpg	落單時間: 2025-11-12 16:55:40
+20251124_072053_crop_014.jpg	0267
+20251124_072053_crop_010.jpg	檯號:
+20251124_072053_crop_033.jpg	$34.00
+20251124_072053_crop_027.jpg	凍檸檬茶
+20251124_072053_crop_021.jpg	$0.00
+20251124_072053_crop_041.jpg	餘額
+20251124_072053_crop_025.jpg	$1 .00
+20251124_072053_crop_019.jpg	$22.00
+20251124_072053_crop_043.jpg	機號
+20251124_072053_crop_040.jpg	23923097
+20251124_072053_crop_037.jpg	八達通
+20251124_072053_crop_020.jpg	迷你湯米線
+20251124_072053_crop_017.jpg	結帳時間:2025-11-12 17:13:25
+20251124_072053_crop_008.jpg	Tel:27800345
+20251124_072053_crop_012.jpg	人數:1
+20251124_072053_crop_032.jpg	小計金額
+20251124_072053_crop_042.jpg	$762.9
+20251124_072053_crop_038.jpg	$34.00
+20251124_072053_crop_026.jpg	米線
+20251120_184634_crop_015.jpg	數量 產品
+20251120_184634_crop_022.jpg	16.50
+20251120_184634_crop_018.jpg	1.00
+20251120_184634_crop_032.jpg	支付交易號:2025111399401001990200839000
+20251120_184634_crop_020.jpg	15.50
+20251120_184634_crop_004.jpg	(211)
+20251120_184634_crop_012.jpg	#43-
+20251120_184634_crop_031.jpg	16.50
+20251120_184634_crop_006.jpg	Fo Tan,
+20251120_184634_crop_003.jpg	McDonald's Hong Kong
+20251120_184634_crop_010.jpg	ORD #037
+20251120_184634_crop_013.jpg	14/11/2025
+20251120_184634_crop_005.jpg	Shatin Galleria,
+20251120_184634_crop_034.jpg	多謝惠顧,塑膠購物袋收費恕不設退款.
+20251120_184634_crop_029.jpg	0.00
+20251120_184634_crop_025.jpg	Mobile
+20251120_184634_crop_024.jpg	16.50
+20251120_184634_crop_009.jpg	2145 4123
+20251120_184634_crop_021.jpg	小計
+20251120_184634_crop_033.jpg	商戶交易號:211444775
+20251120_184634_crop_026.jpg	16.50
+20251120_184634_crop_017.jpg	1 大無糖可樂
+20251120_184634_crop_016.jpg	總數(HKD$)
+20251120_184634_crop_023.jpg	外賣 Total
+20251120_184634_crop_011.jpg	-CS0
+20251120_181901_crop_022.jpg	發票及完整包裝之貨品到任何分店辦理更換一次
+20251120_181901_crop_025.jpg	如有任何爭議，本公司保留最終決定權
+20251120_181901_crop_003.jpg	Tel
+20251120_181901_crop_005.jpg	銷售單
+20251120_181901_crop_019.jpg	雷新嫦
+20251120_181901_crop_027.jpg	全新會員APP計劃
+20251120_181901_crop_020.jpg	如貨品存在品質問題
+20251120_181901_crop_013.jpg	Cash
+20251120_181901_crop_007.jpg	1.00
+20251120_181901_crop_010.jpg	1.00
+20251120_181901_crop_014.jpg	$4.00
+20251120_181901_crop_001.jpg	DS Groceries
+20251120_181901_crop_021.jpg	客人可於購物起7天內憑
+20251120_181901_crop_006.jpg	屈臣氏蒸餾水(樽裝) 620ml
+20251120_181901_crop_012.jpg	$4.00
+20251120_181901_crop_023.jpg	所有酒品
+20251120_181901_crop_011.jpg	合計 :
+20251120_181901_crop_016.jpg	0695562
+20251120_181901_crop_000.jpg	大生生活超市
+20251120_181901_crop_017.jpg	2025/11/18 16:50:18
+20251120_175211_crop_012.jpg	63.0
+20251120_175211_crop_014.jpg	配 百香果蜂蜜醬
+20251120_175211_crop_006.jpg	* 外賣
+20251120_175211_crop_026.jpg	餘額:
+20251120_175211_crop_010.jpg	日期: 2025-11-03
+20251120_175211_crop_016.jpg	不需加配
+20251120_175211_crop_027.jpg	$689.9
+20251120_175211_crop_002.jpg	119
+20251120_175211_crop_028.jpg	多謝惠顧
+20251120_175211_crop_021.jpg	八達通
+test_samples_00007_crop_022.jpg	$0.0
+test_samples_00007_crop_007.jpg	$20.0
+test_samples_00007_crop_027.jpg	$64.0
+test_samples_00007_crop_019.jpg	付款方式
+test_samples_00007_crop_017.jpg	$64.0
+test_samples_00007_crop_005.jpg	$26.0
+test_samples_00007_crop_009.jpg	0
+test_samples_00007_crop_013.jpg	$14.0
+test_samples_00007_crop_014.jpg	折扣 -$5.0
+test_samples_00007_crop_012.jpg	日本北海道3.6朱古力
+cvgbhjk,_crop_031.jpg	唔辣
+cvgbhjk,_crop_020.jpg	菜品名稱
+cvgbhjk,_crop_028.jpg	雞翼麻辣香鍋午市套餐
+cvgbhjk,_crop_012.jpg	用餐人數:3
+cvgbhjk,_crop_038.jpg	小辣
+cvgbhjk,_crop_033.jpg	維他檸檬茶 (套)
+cvgbhjk,_crop_024.jpg	酸菜魚(套)
+cvgbhjk,_crop_037.jpg	川香回鍋肉(套)
+cvgbhjk,_crop_040.jpg	熱情果蘇打(套)
+cvgbhjk,_crop_010.jpg	開放時間:2025/11/20 12:42:20
+cvgbhjk,_crop_021.jpg	數量 金額
+cvgbhjk,_crop_027.jpg	維他檸檬茶 (套)
+cvgbhjk,_crop_000.jpg	十二味 (黃大仙店)
+cvgbhjk,_crop_034.jpg	川香回鍋肉午市套餐
+cvgbhjk,_crop_039.jpg	米飯 (套)
+cvgbhjk,_crop_041.jpg	少甜
+cvgbhjk,_crop_003.jpg	舖
+cvgbhjk,_crop_029.jpg	56.00
+cvgbhjk,_crop_011.jpg	結賬時間:2025/11/20 13:55:35
+cvgbhjk,_crop_007.jpg	訂單類型:堂食
+cvgbhjk,_crop_008.jpg	取餐號:58
+cvgbhjk,_crop_026.jpg	米飯 (套)
+20251124_072011_crop_003.jpg	#176
+20251124_072011_crop_029.jpg	8600472911
+20251124_072011_crop_005.jpg	余錦濃
+20251124_072011_crop_024.jpg	35.2
+20251124_072011_crop_002.jpg	請留意取餐號碼: 1288
+20251124_072011_crop_017.jpg	-3.0
+20251124_072011_crop_018.jpg	總計
+20251124_072011_crop_006.jpg	117621628947
+20251124_072011_crop_022.jpg	31.0
+20251124_072011_crop_016.jpg	快活關愛長者咭 -3.0
+20251124_072011_crop_031.jpg	截至昨天優惠餘額:
+20251124_072011_crop_004.jpg	匯景廣場
+20251124_072011_crop_020.jpg	八達通
+20251120_180319_crop_017.jpg	2025-10-27 17:13:34
+20251120_180319_crop_011.jpg	小計:
+20251120_180319_crop_012.jpg	58.00
+20251120_180319_crop_001.jpg	桌號: 10
+20251120_180319_crop_007.jpg	人數:
+20251120_180319_crop_014.jpg	58.00
+20251120_180319_crop_006.jpg	收銀員: Admin
+20251120_180319_crop_003.jpg	000031114
+20251120_180319_crop_010.jpg	58.00
+20251120_180319_crop_019.jpg	THANK YOU!
+20251120_180319_crop_000.jpg	伊勢堂
+20251124_071953_crop_016.jpg	-5.0
+20251124_071953_crop_004.jpg	機號 (Till):2 店員 (Cashier):EVA
+20251124_071953_crop_007.jpg	9.5
+20251124_071953_crop_024.jpg	餘額 (Remaining Value):
+20251124_071953_crop_014.jpg	8.9
+20251124_071953_crop_020.jpg	27.9
+20251124_071953_crop_015.jpg	$5現金電子券
+20251124_071953_crop_032.jpg	今次購物已慳 $9.5
+20251124_071953_crop_018.jpg	總計 (Total):
+20251124_071953_crop_013.jpg	牛仔牌雜果仁
+20251124_071953_crop_031.jpg	上一次於2025-11-17現金增值
+20251124_071953_crop_027.jpg	機號:51782A
+20251124_071953_crop_002.jpg	店號 (Store):405
+20251124_071953_crop_019.jpg	八達通 (Octopus):
+20251124_071953_crop_005.jpg	2025/11/17 15:32
+20251124_071953_crop_023.jpg	0.0
+20251124_071953_crop_025.jpg	餘額 (Remaining Value):
+20251124_071953_crop_030.jpg	上一次於2025-11-17現金增值
+20251124_071953_crop_017.jpg	總計 (Total):
+20251124_071953_crop_006.jpg	維記雪米茲2粒
+20251124_071953_crop_033.jpg	2025/11/17 15:32:41
+20251120_181838_crop_018.jpg	之詳情
+20251120_181838_crop_012.jpg	條款細則:
+20251120_181838_crop_033.jpg	Dairy
+20251120_181838_crop_006.jpg	現金
+20251120_181838_crop_008.jpg	20251117/15:26/2/4928/15056286
+20251120_181838_crop_024.jpg	1001162567414
+20251120_181838_crop_035.jpg	The
+20251120_181838_crop_007.jpg	500, 00
+20251120_181838_crop_038.jpg	7仔預購
+20251120_181838_crop_036.jpg	alipay.
+20251120_181838_crop_011.jpg	增值結果: 成功
+20251120_181838_crop_017.jpg	hk
+20251120_181838_crop_013.jpg	條款及細則:
+20251120_181838_crop_003.jpg	500. 00
+20251124_072206_crop_006.jpg	$39.0
+20251124_072206_crop_015.jpg	101626321
+20251124_072206_crop_008.jpg	總金額
+20251124_072206_crop_010.jpg	付款方式:
+20251124_072026_crop_023.jpg	101626321
+20251124_072026_crop_021.jpg	$117.0
+20251124_072026_crop_018.jpg	付款方式 :
+666_crop_012.jpg	黃金手撕包
+666_crop_026.jpg	192****6398
+666_crop_014.jpg	12
+666_crop_013.jpg	12
+666_crop_007.jpg	10
+666_crop_005.jpg	2025-10-20

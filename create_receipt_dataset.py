@@ -499,14 +499,15 @@ class ReceiptDatasetCreator:
             print(f"   ❌  未預期的錯誤: {type(e).__name__}: {e}")
             return None
 
-    def generate_training_dataset(self, train_ratio: float = 0.7, valid_ratio: float = 0.15,
-                                  crop_text_regions: bool = True):
+    def generate_training_dataset(self, train_ratio: float = 0.8, valid_ratio: float = 0.1,
+                                  test_ratio: float = 0.1, crop_text_regions: bool = True):
         """
         生成訓練數據集 - gt.txt 格式 (用於 deep-text-recognition-benchmark)
 
         Args:
-            train_ratio: 訓練集比例
-            valid_ratio: 驗證集比例
+            train_ratio: 訓練集比例 (預設 0.8)
+            valid_ratio: 驗證集比例 (預設 0.1)
+            test_ratio: 測試集比例 (預設 0.1)
             crop_text_regions: 是否切割文字區域 (True=訓練Recognition, False=訓練完整OCR)
 
         目錄結構 (crop_text_regions=True):
@@ -524,12 +525,19 @@ class ReceiptDatasetCreator:
         if not (0 < train_ratio < 1):
             raise ValueError(
                 f"Invalid train_ratio: {train_ratio}, must be between 0 and 1")
-        if not (0 <= valid_ratio < 1):
+        if not (0 < valid_ratio < 1):
             raise ValueError(
                 f"Invalid valid_ratio: {valid_ratio}, must be between 0 and 1")
-        if train_ratio + valid_ratio > 1:
+        if not (0 < test_ratio < 1):
             raise ValueError(
-                f"train_ratio + valid_ratio must be <= 1, got {train_ratio + valid_ratio}")
+                f"Invalid test_ratio: {test_ratio}, must be between 0 and 1")
+
+        # 驗證比例總和為 1.0 (允許浮點誤差)
+        ratio_sum = train_ratio + valid_ratio + test_ratio
+        if not (0.99 <= ratio_sum <= 1.01):
+            raise ValueError(
+                f"train_ratio + valid_ratio + test_ratio must equal 1.0, got {ratio_sum:.4f} "
+                f"(train={train_ratio}, valid={valid_ratio}, test={test_ratio})")
 
         # 檢查是否有已驗證的 OCR 結果 (檢查 ocr_results 層級而不是圖片層級)
         verified_count = 0
@@ -582,10 +590,16 @@ class ReceiptDatasetCreator:
             n_total = len(all_crops)
             n_train = int(n_total * train_ratio)
             n_valid = int(n_total * valid_ratio)
+            n_test = int(n_total * test_ratio)
+
+            # 確保所有數據都被使用 (處理四捨五入誤差)
+            if n_train + n_valid + n_test < n_total:
+                n_test = n_total - n_train - n_valid
 
             train_crops = all_crops[:n_train]
             valid_crops = all_crops[n_train:n_train + n_valid]
-            test_crops = all_crops[n_train + n_valid:]
+            test_crops = all_crops[n_train +
+                                   n_valid:n_train + n_valid + n_test]
 
             print(
                 f"📈 Split by crops: Train={len(train_crops)}, Valid={len(valid_crops)}, Test={len(test_crops)}")
@@ -621,17 +635,26 @@ class ReceiptDatasetCreator:
             n_total = len(items)
             n_train = int(n_total * train_ratio)
             n_valid = int(n_total * valid_ratio)
+            n_test = int(n_total * test_ratio)
 
-            # 確保 valid 至少有 1 張圖片 (如果總數 >= 3)
-            if n_total >= 3 and n_valid == 0:
-                n_valid = 1
-                n_train = n_total - n_valid - \
-                    max(1, int(n_total * (1 - train_ratio - valid_ratio)))
+            # 確保所有數據都被使用 (處理四捨五入誤差)
+            if n_train + n_valid + n_test < n_total:
+                n_test = n_total - n_train - n_valid
+
+            # 確保 valid 和 test 至少有 1 張圖片 (如果總數 >= 3)
+            if n_total >= 3:
+                if n_valid == 0:
+                    n_valid = 1
+                if n_test == 0:
+                    n_test = 1
+                # 重新調整 train 數量
+                n_train = n_total - n_valid - n_test
 
             train_items = [(k, v, None) for k, v in items[:n_train]]
             valid_items = [(k, v, None)
                            for k, v in items[n_train:n_train + n_valid]]
-            test_items = [(k, v, None) for k, v in items[n_train + n_valid:]]
+            test_items = [(k, v, None) for k, v in items[n_train +
+                                                         n_valid:n_train + n_valid + n_test]]
 
             print(
                 f"📈 Split by images: Train={len(train_items)}, Valid={len(valid_items)}, Test={len(test_items)}")
@@ -663,8 +686,8 @@ class ReceiptDatasetCreator:
                         if len(item) == 3:
                             image_name, anno, crop_indices = item
                         else:
-                            # 向後兼容舊格式
-                            image_name, anno = item
+                            # 向後兼容舊格式 (實際上所有項目都是3元組)
+                            image_name, anno = item[:2]  # type: ignore
                             crop_indices = None
 
                         src_img = Path(anno['processed_image_path'])
